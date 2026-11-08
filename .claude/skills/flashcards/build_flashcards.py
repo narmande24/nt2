@@ -88,6 +88,8 @@ EXAMPLE_OVERRIDES = {
     "onderzoek doen": "Zij doet onderzoek naar kinderziektes.",
     "zich ergeren": "Ik erger me aan het lawaai.",
     "hangen": "De jas hangt aan de deur.",
+    "twijfelen": "Ik twijfel aan mijn keuze.",
+    "kauwen": "Hij kauwt op een stuk brood.",
     "verwerken": "In zijn schilderijen verwerkt hij zijn herinneringen aan zijn eigen land.",
 }
 
