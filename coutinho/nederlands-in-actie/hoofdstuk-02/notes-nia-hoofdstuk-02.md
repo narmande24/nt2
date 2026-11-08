@@ -68,6 +68,50 @@
 | de calorie (mv. calorieën) | calorie | – | 51 |
 | intensief → *intensieve* | intensive | – | 51 |
 | inclusief | including | – | 51 |
+| de tentamenweek (mv. tentamenweken) | exam week | Rechtenstudenten lopen tijdens de tentamenweek door de supermarkt. | 60 |
+| de rosbief | roast beef | …voor een broodje rosbief. | 60 |
+| de rucola | rocket, rucola | Ja, rucola en brie. | 60 |
+| de brie | brie | Ja, rucola en brie. | 60 |
+| de truffelmayonaise | truffle mayonnaise | Vooral de truffelmayonaise erbij vind ik lekker. | 60 |
+| biologisch → *biologische* | organic | We hebben biologische drinkyoghurt. | 60 |
+| de drinkyoghurt | drinking yoghurt | We hebben biologische drinkyoghurt. | 60 |
+| het product (mv. producten) | product | Ik kies wel de producten die ik lekker vind. | 60 |
+| googelen → *googel* | to google | Ik googel tijdens het studeren vaak de aanbiedingen. | 60 |
+| de strategie (mv. strategieën) | strategy | Heb je een strategie als je de winkel binnenloopt? | 60 |
+| pakken → *pak* | to grab | Wacht, ik pak even de achterste uit het schap. | 60 |
+| **het schap (mv. schappen)** | shelf | Wacht, ik pak even de achterste uit het schap. | 60 |
+| steeds (minder) | hier: less and less; ook: still, always | Ik haal steeds minder voorverpakte groenten. | 60 |
+| voorverpakt → *voorverpakte* | pre-packaged | Ik haal steeds minder voorverpakte groenten. | 60 |
+| het lijstje (mv. lijstjes) | list | Ik maak dan een lijstje voor de boodschappen. | 60 |
+| zich houden aan → *houd … me … aan* | to stick to | Daar houd ik me dan ook aan. | 60 |
+| tegenwoordig | nowadays | Vlees koop ik tegenwoordig niet meer in de supermarkt. | 60 |
+| **schelen → *scheelt*** | hier: to save; ook: to differ | Dat scheelt soms bijna de helft van het geld. | 60 |
+| smaken (naar) → *smaakt* | to taste (of) | Dat scheelt de helft van het geld en smaakt beter. | 60 |
+| binnenlopen → *loopt … binnen* | to walk into | Heb je een strategie als je de winkel binnenloopt? | 60 |
+
+---
+
+## 2. Struikelwoorden (tricky words)
+
+### steeds
+1. always, every time — *Ik heb steeds dezelfde droom. Elke nacht opnieuw.*
+2. nog steeds = still — *Ben je nog steeds verkouden? Dat duurt lang.*
+3. steeds + vergrotende trap = more and more / less and less — *We eten steeds gezonder. We eten nu bijna geen snacks meer.*
+
+### zich houden aan
+to stick to, to follow — *Ik houd me aan de richtlijnen voor gezond eten. Dus ik volg die richtlijnen.*
+
+### tegenwoordig
+nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. Vroeger was er geen pubquiz.*
+
+### schelen
+1. to save / to differ (verschil in prijs, hoeveelheid of leeftijd) — *De drinkyoghurt is in de aanbieding. Dat scheelt € 0,50. Dat is € 0,50 goedkoper.* / *Mijn zus en ik schelen twee jaar. Zij is twee jaar ouder.* / *Het scheelde niet veel of we hadden de pubquiz verloren. We hadden maar twee punten meer.*
+2. het kan me niet schelen = I don't care — *Het kan me niet schelen of we winnen of verliezen. Meedoen vind ik belangrijker.*
+3. Wat scheelt eraan? = What's the matter? — *Wat scheelt eraan? Voel je je wel lekker? Je ziet er moe uit.*
+
+### smaken (naar)
+1. to taste (how) — *Hoe smaakt die wijn? Is hij soepel of een beetje zwaar?*
+2. smaken naar = to taste of — *Deze truffelmayonaise smaakt naar ui. Ik proef helemaal geen truffel.*
 
 ---
 
@@ -85,6 +129,10 @@
 | verbranden | to burn | verbrand / verbrandt | verbrandde / verbrandden | heeft verbrand |
 | kauwen (op) | to chew (on) | kauw / kauwt | kauwde / kauwden | heeft gekauwd |
 | noemen | to name | noem / noemt | noemde / noemden | heeft genoemd |
+| googelen | to google | googel / googelt | googelde / googelden | heeft gegoogeld |
+| pakken | to grab | pak / pakt | pakte / pakten | heeft gepakt |
+| schelen | to save; to differ | scheel / scheelt | scheelde / scheelden | heeft gescheeld |
+| smaken (naar) | to taste (of) | smaak / smaakt | smaakte / smaakten | heeft gesmaakt |
 
 ### Onregelmatige werkwoorden
 
@@ -96,6 +144,8 @@
 | afhangen (van) | to depend on | hang … af / hangt … af | hing / hingen … af | heeft afgehangen |
 | blijken (uit) | to show (that) | blijk / blijkt | bleek / bleken | is gebleken |
 | vergeten | to forget | vergeet / vergeet | vergat / vergaten | heeft vergeten |
+| zich houden aan | to stick to | houd … me … aan / houdt zich aan | hield / hielden … zich aan | heeft zich gehouden aan |
+| binnenlopen | to walk into | loop … binnen / loopt … binnen | liep / liepen … binnen | is binnengelopen |
 
 - **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*
 
@@ -109,6 +159,8 @@
 | afhangen | **van** | to depend on | Het hangt wel af van lengte, geslacht en zo. | 52 |
 | kauwen | **op** | to chew (on) | Dat is inclusief kauwen, toch? | 52 |
 | blijken | **uit** | (something) shows (that) | Uit onderzoek blijkt dat er negen gemeenschappelijke kenmerken zijn. | 52 |
+| zich houden | **aan** | to stick to | Daar houd ik me dan ook aan. | 60 |
+| smaken | **naar** | to taste (of) | Deze truffelmayonaise smaakt naar ui. | 61 |
 
 ---
 
@@ -128,6 +180,12 @@
 | Waar heb je geen zin in? | What do you not feel like (doing)? / What are you not in the mood for? | informeel | 59 |
 | Waar heb je geen tijd voor? | What do you not have time for? | informeel | – |
 | Waarvoor ben jij niet geduldig genoeg? | What are you not patient enough for? | informeel | – |
+| Dat is mooi meegenomen. | That's a nice bonus. (= Dat is positief.) | informeel | 60 |
+| Het scheelt € 0,50. | It saves €0.50. / It is €0.50 cheaper. | informeel | 61 |
+| Wat scheelt eraan? | What's the matter? | informeel | 61 |
+| Wat scheelt eraan? Voel je je wel lekker? Je ziet er moe uit. | What's the matter? Are you feeling alright? You look tired. | informeel | 61 |
+| Het kan me niet schelen. | I don't care. / It doesn't matter to me. | informeel | 61 |
+| Het kan me niet schelen of we winnen of verliezen. Meedoen vind ik belangrijker. | I don't care whether we win or lose. Taking part is more important to me. | informeel | 61 |
 
 ---
 
