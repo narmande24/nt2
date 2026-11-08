@@ -273,3 +273,24 @@ In de bijzin staan de **werkwoorden op de laatste plaats**. Staat de bijzin **vo
 **Komma:** Vaak zet je een komma **voor** de conjunctie, zodat de zin duidelijker is voor de lezer. Er zijn geen vaste regels; soms kies je zelf.
 
 > **Dit heb je geleerd:** conjuncties die een **hoofdzin** krijgen (*en, want, maar, dus, of*) en conjuncties die een **bijzin** krijgen (*omdat, als, toen, voordat, nadat, totdat, terwijl, zodat, zodra, hoewel, …*). In de bijzin staan de werkwoorden **op de laatste plaats**. Staat de bijzin op de eerste plaats, dan volgt een hoofdzin **met inversie**.
+
+---
+
+### Plaatsingswerkwoorden: leggen / zetten / doen, stoppen / hangen (pag. 42)
+
+Welk werkwoord je gebruikt, hangt af van de **positie** van het object. Met een **dynamisch** werkwoord beschrijf je de **actie** (je plaatst iets), met een **statisch** werkwoord het **resultaat** (hoe iets er daarna staat).
+
+| positie | dynamiek, actie | stil, resultaat |
+|---------|-----------------|-----------------|
+| horizontaal | leggen | liggen |
+| verticaal | zetten | staan |
+| in iets | doen, stoppen | zitten |
+| hangen | hangen | hangen |
+
+**Voorbeelden (actie):**
+- Ik **leg** mijn diploma's in de doos.
+- Ik **zet** mijn koffiekopje in de doos.
+- Ik **doe** / **stop** mijn tekenspullen in de doos.
+- Ik **hang** de foto van mijn vriend in de doos.
+
+**Let op:** *hangen* is hetzelfde werkwoord voor actie en resultaat.
