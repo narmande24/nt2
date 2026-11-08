@@ -270,3 +270,36 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 - *Vind je het leuk **om** een pubquiz **te** doen?*
 
 **Dit heb je geleerd:** Je gebruikt *om te* + infinitief om een doel aan te geven of meer informatie te geven over een substantief of adjectief. *Te* komt voor de infinitief aan het einde van de zin.
+
+### 2.6 Zou(den) (1) (pag. 66)
+
+**Voorbeeldzinnen:**
+
+1. ***Zou** je mij **willen** helpen?*
+2. ***Zou** u de biologische drinkyoghurt voor mij **kunnen** pakken?*
+3. ***Zouden** jullie wat rustiger **willen** zijn?*
+4. ***Zou** ik van iemand een pen **mogen** lenen?*
+5. ***Zouden** we hier **kunnen** zitten?*
+
+**Waar gaan deze zinnen over?** Een wens, een **beleefde vraag** of een irrealis (een hypothetische situatie) → deze zinnen zijn **beleefde vragen**.
+
+**Wanneer gebruik je een beleefde vraag?**
+- In **formele situaties**.
+- Als je **beleefd, voorzichtig of vriendelijk** wilt zijn.
+
+**Opbouw:**
+
+| zou(den) | onderwerp | | willen / mogen / kunnen | + infinitief |
+|----------|-----------|---|--------------------------|--------------|
+| Zou | je | mij | willen | helpen? |
+| Zou | ik | van iemand een pen | mogen | lenen? |
+| Zouden | we | hier | kunnen | zitten? |
+
+- Bij een beleefde vraag gebruik je: ***zou(den)* + willen / mogen / kunnen + infinitief**.
+- *Zou* bij *ik, je/jij, u, hij/zij/het*; *zouden* bij *we, jullie, ze*.
+- De infinitieven staan aan het **einde van de zin**.
+
+**Gewone vraag → beleefde vraag (voorbeeld):**
+- *Mag ik de wificode hebben?* → *Zou ik de wificode mogen hebben?*
+
+**Dit heb je geleerd:** Met *zou(den)* kun je een beleefde vraag maken. In de zin staat dan ook: *willen / mogen / kunnen* + infinitief.
