@@ -85,11 +85,9 @@
 | het rammelaartje (de rammelaar) | rattle | Samen met een gouden rammelaartje. | 36 |
 | het horloge | watch | Het gouden horloge heb ik van mijn moeder gekregen en dat draag ik elke dag. | 36 |
 | dankbaar (voor) | grateful (for) | Daar ben ik haar heel dankbaar voor. | 36 |
-| de Amersfoorter | person from Amersfoort | Clemens is Amersfoorter, net als ik. | 38 |
 | hangen (aan) | hier: to hang (on); ook: to hang (onto something) | In de doos hangen foto's van mijn vriendin en onze kinderen. | 38 |
 | de schijf (mv. schijven) | disk | Ook staat er een harde schijf in. | 38 |
 | bewaren → *bewaar* | to keep | Daar bewaar ik al mijn muziek op. | 38 |
-| Carré | theatre in Amsterdam | Een kaartje van Carré. | 38 |
 | uitverkopen → *uitverkochte* | to sell out; sold out | Ik stond met mijn eigen show voor een uitverkochte zaal. | 38 |
 | de oogziekte | eye disease | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
 | de ziekte (mv. ziektes) | disease, illness | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
@@ -111,6 +109,7 @@
 | stimuleren → *gestimuleerd* | to encourage, stimulate | Mijn ouders stimuleren me om te studeren. | – |
 | de telefoon (mv. telefoons) | telephone | Als je praat over spullen, dan is dat mijn telefoon. | 22 |
 | de zelfreflectie | self-reflection | Zelfreflectie betekent nadenken over jezelf. | – |
+| vervangen | to replace | Ik vervang mijn oude telefoon door een nieuwe. | – |
 
 ---
 
@@ -198,6 +197,7 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 | stilstaan (bij) | to stop to think about | sta / staat … stil (bij) | stond / stonden … stil | heeft stilgestaan |
 | uitkomen | to come true | kom uit / komt uit | kwam uit / kwamen uit | is uitgekomen |
 | uitverkopen | to sell out | verkoop / verkoopt … uit | verkocht / verkochten … uit | heeft uitverkocht |
+| vervangen | to replace | vervang / vervangt | verving / vervingen | heeft vervangen |
 | vinden | to find, think | vind / vindt | vond / vonden | heeft gevonden |
 | vliegen | to fly | vlieg / vliegt | vloog / vlogen | heeft / is gevlogen |
 | weten | to know | weet / weet | wist / wisten | heeft geweten |
@@ -242,6 +242,7 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 |------------|-----------|---------------------|------|
 | Je merkt het, ik kan niet kiezen. | As you can see, I can't choose. | informeel | 22 |
 | Ik ben muzikaal. Ik speel gitaar. | I'm musical. I play the guitar. | informeel | 21 |
+| Dit leek me een mooi moment om … | This seemed like a good moment to … | – | – |
 
 ---
 
