@@ -214,25 +214,25 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 ---
 
 ## 4. Voorzetsels (prepositions)
-| Combinatie | Betekenis | Voorbeeldzin | Pag. |
-|------------|-----------|--------------|------|
-| wonen **in** | to live in | Ik woon in Amsterdam. | – |
-| vernoemd **naar** | named after | Mijn broer is vernoemd naar oma. | 21 |
-| houden **van** | to love / like | Ik houd van tekenen en schilderen. | 21 |
-| benieuwd **naar** | curious about | Ik ben benieuwd wat hij denkt. | 21 |
-| trots **op** | proud of | Ik ben trots op mijn vader. | 22 |
-| zorgen **voor** | to take care of | Hij heeft voor Anne en mij gezorgd. | 22 |
-| een hekel hebben **aan** | to dislike, hate | Ik heb een hekel aan lawaai. | 22 |
-| sturen **naar** / **aan** | to send to | Ik stuur tekeningen naar tijdschriften. | 22 |
-| merken **van** | to notice | Je merkt het. | 22 |
-| onderzoek doen **naar** | to do research on | …onderzoek doe en publiceer. | 23 |
-| zich ergeren **aan** | to get annoyed by | Ik wilde me minder ergeren in het verkeer. | 23 |
-| stilstaan **bij** | to stop to think about | Ik sta nooit stil bij wat ik heb meegemaakt. | 36 |
-| herinneringen **aan** | memories of | De herinneringen aan mijn roots. | 36 |
-| verwerken **in** | to showcase / process in | …om erin te verwerken. | 36 |
-| dankbaar **voor** | grateful for | Daar ben ik haar heel dankbaar voor. | 36 |
-| hangen **aan** | to hang on | In de doos hangen foto's. | 38 |
-| zicht **op** hebben | to have on approval | Je mag die veertien dagen op zicht hebben. | 39 |
+| Woord | Voorzetsel | Betekenis | Voorbeeldzin | Pag. |
+|-------|------------|-----------|--------------|------|
+| wonen | **in** | to live in | Ik woon in Amsterdam. | – |
+| vernoemd | **naar** | named after | Mijn broer is vernoemd naar oma. | 21 |
+| houden | **van** | to love / like | Ik houd van tekenen en schilderen. | 21 |
+| benieuwd | **naar** | curious about | Ik ben benieuwd wat hij denkt. | 21 |
+| trots | **op** | proud of | Ik ben trots op mijn vader. | 22 |
+| zorgen | **voor** | to take care of | Hij heeft voor Anne en mij gezorgd. | 22 |
+| een hekel hebben | **aan** | to dislike, hate | Ik heb een hekel aan lawaai. | 22 |
+| sturen | **naar / aan** | to send to | Ik stuur tekeningen naar tijdschriften. | 22 |
+| merken | **van** | to notice | Je merkt het. | 22 |
+| onderzoek doen | **naar** | to do research on | …onderzoek doe en publiceer. | 23 |
+| zich ergeren | **aan** | to get annoyed by | Ik wilde me minder ergeren in het verkeer. | 23 |
+| stilstaan | **bij** | to stop to think about | Ik sta nooit stil bij wat ik heb meegemaakt. | 36 |
+| herinneringen | **aan** | memories of | De herinneringen aan mijn roots. | 36 |
+| verwerken | **in** | to showcase / process in | …om erin te verwerken. | 36 |
+| dankbaar | **voor** | grateful for | Daar ben ik haar heel dankbaar voor. | 36 |
+| hangen | **aan** | to hang on | In de doos hangen foto's. | 38 |
+| zicht … hebben | **op** | to have on approval | Je mag die veertien dagen op zicht hebben. | 39 |
 
 ---
 
