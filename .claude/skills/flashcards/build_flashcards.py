@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Build flashcards-nia-h01.html from hoofdstuk-01-notes.md (the notes stay the source of truth)."""
+"""Build a flashcard page from a hoofdstuk notes file (the notes stay the source of truth).
+
+Usage: build_flashcards.py <path/to/hoofdstuk-NN-notes.md> [--out <file.html>]
+Default output: flashcards-nia-hNN.html next to the notes file.
+"""
+import argparse
 import json
 import re
 import sys
 from pathlib import Path
 
-HERE = Path(__file__).resolve().parent
-NOTES = HERE / "hoofdstuk-01-notes.md"
-OUT = HERE / "flashcards-nia-h01.html"
 
 
 def clean(s):
@@ -38,16 +40,31 @@ def table_rows(lines):
 
 
 def sections(text):
-    """Split into {heading: [lines]} on ## and ### headings."""
-    out, cur = {}, None
+    """Split into ({heading: [lines]}, {heading: level}) on ## and ### headings."""
+    out, levels, cur = {}, {}, None
     for ln in text.splitlines():
-        m = re.match(r"#{2,3} (.*)", ln)
+        m = re.match(r"(#{2,3}) (.*)", ln)
         if m:
-            cur = m.group(1).strip()
+            cur = m.group(2).strip()
             out[cur] = []
+            levels[cur] = len(m.group(1))
         elif cur is not None:
             out[cur].append(ln)
-    return out
+    return out, levels
+
+
+def norm(h):
+    return re.sub(r"^[\d.\s]+", "", h).lower()
+
+
+def find_sec(sec, *needles, exact=False):
+    """Lines of the first section whose heading matches (numbering ignored), else []."""
+    for h, lines in sec.items():
+        n = norm(h)
+        if any(n == x if exact else x in n for x in needles):
+            return lines
+    print(f"WARN: no section matching {needles}; skipping", file=sys.stderr)
+    return []
 
 
 def split_word(cell):
@@ -104,9 +121,8 @@ def terms(*cells):
     return out
 
 
-def build():
-    text = NOTES.read_text(encoding="utf-8")
-    sec = sections(text)
+def build(text):
+    sec, levels = sections(text)
     cards = []
 
     def add(deck, nl, en, detail="", pg="", prep="", blank="", art="", conj=None, items=None, ex="", hl=None, exact=False, phrase=""):
@@ -115,7 +131,7 @@ def build():
         else:
             print(f"WARN: skipped row in {deck}: {nl!r} / {en!r}", file=sys.stderr)
 
-    woorden = table_rows(sec["1. Nieuwe woorden (Woordenlijst)"])
+    woorden = table_rows(find_sec(sec, "woordenlijst"))
     for r in woorden:
         nl, det = split_word(r[0])
         lemma = re.sub(r"^(de|het)\s+", "", nl)
@@ -137,20 +153,22 @@ def build():
             add("Artikel", m.group(2).strip(), clean(r[1]), "", page(r[3]), art=m.group(1),
                 ex=ex, hl=terms(m.group(2), *pl))
 
-    for name in ("Regelmatige werkwoorden", "Onregelmatige werkwoorden"):
-        for r in table_rows(sec[name]):
+    for name in ("regelmatige werkwoorden", "onregelmatige werkwoorden"):
+        for r in table_rows(find_sec(sec, name, exact=True)):
             add("Werkwoorden", clean(r[0]), clean(r[1]), "", conj=conjugation(r))
 
-    for r in table_rows(sec["4. Prepositie (prepositions)"]):
+    for r in table_rows(find_sec(sec, "prepositie", "voorzetsel")):
         word, prep = clean(r[0]), clean(r[1])
-        ex = EXAMPLE_OVERRIDES.get(word, clean(r[3]))
+        ex = clean(r[3])
+        if not blank_out(ex, prep):  # the notes' sentence has no blank-able preposition
+            ex = EXAMPLE_OVERRIDES.get(word, ex)
         blank = blank_out(ex, prep)
         if not blank:
             print(f"WARN: no blank possible for {word!r}: {ex!r}", file=sys.stderr)
         add("Prepositie", word, clean(r[2]), "", page(r[4]), prep=prep, blank=blank,
             ex=ex, hl=[clean(prep.split("/")[0]).lower()], exact=True)
 
-    for r in table_rows(sec["5. Nuttige uitdrukkingen (useful expressions)"]):
+    for r in table_rows(find_sec(sec, "uitdrukkingen")):
         nl, ex = clean(r[0]), ""
         if " — " in nl:
             nl, ex = nl.split(" — ", 1)
@@ -159,9 +177,12 @@ def build():
         add("Uitdrukkingen", nl, clean(r[1]), "", page(r[3]), ex=clean(ex) or nl, phrase=nl)
 
     # Struikelwoorden: "### word" followed by numbered senses or a single line
-    start = list(sec).index("2. Struikelwoorden") + 1
-    for head in list(sec)[start:]:
-        if head.startswith(("3.", "Regelmatige", "Onregelmatige")):
+    heads = list(sec)
+    st_key = next((h for h in heads if "struikelwoorden" in norm(h)), None)
+    if st_key is None:
+        print("WARN: no section matching 'struikelwoorden'; skipping", file=sys.stderr)
+    for head in heads[heads.index(st_key) + 1:] if st_key else []:
+        if levels[head] <= levels[st_key]:  # next top-level section
             break
         senses, exs, items = [], [], []
         for ln in sec[head]:
@@ -183,7 +204,7 @@ TEMPLATE = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nederlands in actie – Hoofdstuk 1</title>
+<title>/*BOOK*/ – /*TITLE*/</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Shantell+Sans:ital,wght@1,500;1,600;1,700&display=swap" rel="stylesheet">
@@ -227,8 +248,8 @@ h1{font-size:1.2rem;margin:0 0 12px}
 </head>
 <body>
 <main>
-<div class="book">Nederlands in actie</div>
-<h1>Hoofdstuk 1 — Identiteit</h1>
+<div class="book">/*BOOK*/</div>
+<h1>/*TITLE*/</h1>
 <div class="bar" id="decks"></div>
 <div class="bar">
   <button class="chip" id="shuffle">Shuffle</button>
@@ -247,7 +268,7 @@ const CARDS = /*CARDS*/[];
 const DECKS = [...new Set(CARDS.map(c => c.deck))];
 const COLORS = {Woorden:"#3ddc84",Words:"#22d3ee",Werkwoorden:"#ff9f43",Prepositie:"#4dabf7",Uitdrukkingen:"#f06595",Struikelwoorden:"#ffd43b",Artikel:"#b197fc"};
 const col = d => COLORS[d] || "#b197fc";
-const KEY = "nt2-h1-flashcards";
+const KEY = "nt2-/*ID*/-flashcards";
 let st = {decks: [DECKS[0]], known: {}};
 try { Object.assign(st, JSON.parse(localStorage.getItem(KEY)) || {}); } catch (e) {}
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
@@ -358,14 +379,28 @@ build(false);
 
 
 def main():
-    cards = build()
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("notes", type=Path, help="hoofdstuk notes markdown file")
+    ap.add_argument("--out", type=Path, help="output html (default: flashcards-nia-hNN.html next to the notes)")
+    args = ap.parse_args()
+    notes = args.notes.resolve()
+    text = notes.read_text(encoding="utf-8")
+    num = re.search(r"hoofdstuk-(\d+)", notes.name)
+    nn = num.group(1) if num else notes.stem
+    out = args.out or notes.with_name(f"flashcards-nia-h{nn}.html")
+    title_m = re.match(r"#\s+(.+)", text)
+    title = title_m.group(1).strip() if title_m else f"Hoofdstuk {nn}"
+    # book name from the folder above the chapter folder: nederlands-in-actie -> Nederlands in actie
+    book = notes.parent.parent.name.replace("-", " ").capitalize()
+    cards = build(text)
     cards.sort(key=lambda c: c["deck"] == "Artikel")  # stable: Artikel deck goes last
     counts = {}
     for c in cards:
         counts[c["deck"]] = counts.get(c["deck"], 0) + 1
-    html = TEMPLATE.replace("/*CARDS*/[]", json.dumps(cards, ensure_ascii=False).replace("</", "<\\/"))
-    OUT.write_text(html, encoding="utf-8")
-    print(f"Wrote {OUT} with {len(cards)} cards: {counts}")
+    html = TEMPLATE.replace("/*BOOK*/", book).replace("/*TITLE*/", title).replace("/*ID*/", f"h{nn}")
+    html = html.replace("/*CARDS*/[]", json.dumps(cards, ensure_ascii=False).replace("</", "<\\/"))
+    out.write_text(html, encoding="utf-8")
+    print(f"Wrote {out} with {len(cards)} cards: {counts}")
 
 
 if __name__ == "__main__":

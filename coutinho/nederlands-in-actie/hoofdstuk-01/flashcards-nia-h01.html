@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nederlands in actie – Hoofdstuk 1</title>
+<title>Nederlands in actie – Hoofdstuk 1 — Identiteit</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&family=Shantell+Sans:ital,wght@1,500;1,600;1,700&display=swap" rel="stylesheet">
@@ -67,7 +67,7 @@ const CARDS = [{"deck": "Woorden", "nl": "de leeftijd", "en": "age", "detail": "
 const DECKS = [...new Set(CARDS.map(c => c.deck))];
 const COLORS = {Woorden:"#3ddc84",Words:"#22d3ee",Werkwoorden:"#ff9f43",Prepositie:"#4dabf7",Uitdrukkingen:"#f06595",Struikelwoorden:"#ffd43b",Artikel:"#b197fc"};
 const col = d => COLORS[d] || "#b197fc";
-const KEY = "nt2-h1-flashcards";
+const KEY = "nt2-h01-flashcards";
 let st = {decks: [DECKS[0]], known: {}};
 try { Object.assign(st, JSON.parse(localStorage.getItem(KEY)) || {}); } catch (e) {}
 const save = () => { try { localStorage.setItem(KEY, JSON.stringify(st)); } catch (e) {} };
