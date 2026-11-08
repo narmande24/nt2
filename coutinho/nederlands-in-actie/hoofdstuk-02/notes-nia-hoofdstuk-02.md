@@ -125,3 +125,44 @@
 | Ze woont elders. | She lives elsewhere. | – | 55 |
 | maandelijks | monthly, once a month | – | 56 |
 | Mijn geheugen is niet zo goed. | My memory is not so good. | informeel | – |
+| Waar heb je geen zin in? | What do you not feel like (doing)? / What are you not in the mood for? | informeel | 59 |
+| Waar heb je geen tijd voor? | What do you not have time for? | informeel | – |
+| Waarvoor ben jij niet geduldig genoeg? | What are you not patient enough for? | informeel | – |
+
+---
+
+## 6. Grammatica
+
+### 2.4 Om te + infinitief (pag. 57–58)
+
+**Voorbeeldzinnen:**
+
+1. *Je moet vijf dagen per week dertig minuten bewegen **om** gezond **te** blijven.*
+2. *Ik wil tienduizend stappen per dag zetten **om** genoeg calorieën **te** verbranden.*
+3. *Deze pubquiz hebben we gemaakt **om** jullie kennis **te** testen.*
+4. *Je krijgt kaartjes **om** je antwoorden op **te** schrijven.*
+5. *Ik doe deze oefening **om** mijn hart sterk **te** houden.*
+6. *Het is mijn droom **om** als arts **te** werken.*
+7. *Ik zie te slecht **om** auto **te** rijden.*
+8. *Het is verboden **om** antwoorden op je telefoon op **te** zoeken.*
+9. *Mijn kennis is te klein **om** deze vraag **te** beantwoorden.*
+
+**Om te + infinitief gebruik je:**
+
+| Functie | Vraag | Zinnen |
+|---------|-------|--------|
+| Een **doel** aangeven | Waarom doe je iets? | 1 t/m 3 |
+| Meer informatie geven over een **substantief** | Wat voor (soort) …? | 4 t/m 6 |
+| Meer informatie geven over een **adjectief** | Waarvoor is het te …? / Wat is …? | 7 t/m 9 |
+
+**Positie van *te*:**
+- *Te* komt **voor de infinitief**, aan het **einde van de zin**.
+- Na *te* komt altijd een **infinitief** (werkwoord).
+- Bij een **scheidbaar werkwoord** komt *te* **tussen het prefix en de rest van het werkwoord**: *op **te** schrijven*, *op **te** zoeken* (zie hoofdstuk 3).
+
+**Meer voorbeelden:**
+- *Dit is een leuk boek **om** tijdens je vakantie **te** lezen.*
+- *We gaan naar de biologische supermarkt **om** gezonde producten **te** kopen.*
+- *Vind je het leuk **om** een pubquiz **te** doen?*
+
+**Dit heb je geleerd:** Je gebruikt *om te* + infinitief om een doel aan te geven of meer informatie te geven over een substantief of adjectief. *Te* komt voor de infinitief aan het einde van de zin.
