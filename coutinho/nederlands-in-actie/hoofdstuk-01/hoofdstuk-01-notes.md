@@ -213,8 +213,8 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 
 ---
 
-## 4. Voorzetsels (prepositions)
-| Woord | Voorzetsel | Betekenis | Voorbeeldzin | Pag. |
+## 4. Prepositie (prepositions)
+| Woord | Prepositie | Betekenis | Voorbeeldzin | Pag. |
 |-------|------------|-----------|--------------|------|
 | wonen | **in** | to live in | Ik woon in Amsterdam. | – |
 | vernoemd | **naar** | named after | Mijn broer is vernoemd naar oma. | 21 |
