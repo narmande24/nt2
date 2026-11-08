@@ -88,6 +88,25 @@
 | **schelen → *scheelt*** | hier: to save; ook: to differ | Dat scheelt soms bijna de helft van het geld. | 60 |
 | smaken (naar) → *smaakt* | to taste (of) | Dat scheelt de helft van het geld en smaakt beter. | 60 |
 | binnenlopen → *loopt … binnen* | to walk into | Heb je een strategie als je de winkel binnenloopt? | 60 |
+| toepassen → *past … toe* | to apply, to put into practice | Er zijn op onze aarde een aantal plekken waar dit succesvol wordt toegepast. | 64 |
+| verspreid | spread out, scattered | Hoewel de Blue Zones over de hele wereld verspreid liggen, hebben de mensen die er leven opvallend veel gemeen. | 64 |
+| opvallend | strikingly, remarkably | Hoewel de Blue Zones over de hele wereld verspreid liggen, hebben de mensen die er leven opvallend veel gemeen. | 64 |
+| gemeen (hebben) | to have in common (ook: mean, nasty) | Hoewel de Blue Zones over de hele wereld verspreid liggen, hebben de mensen die er leven opvallend veel gemeen. | 64 |
+| betreffen → *betreft* | to concern; *wat betreft* = as for, regarding | Wat betreft levensstijl blijken de Blue Zone-bewoners negen specifieke kenmerken te delen. | 64 |
+| voortdurend | continuously, constantly | In plaats daarvan leven zij in een omgeving die hen voortdurend aanzet tot beweging. | 64 |
+| welteverstaan | mind you, to be clear | Natuurlijke beweging welteverstaan. | 64 |
+| het nastreven (nastreven → *streeft … na*) | pursuing, striving for | Het nastreven van een doel geeft extra energie en verhoogt de levensverwachting. | 64 |
+| de versnelling (mv. versnellingen) | gear; acceleration | Schakel een versnelling terug. | 64 |
+| terugschakelen → *schakelt … terug* | to shift down (a gear), to slow down | Schakel een versnelling terug. | 64 |
+| vreten → *vreet* | to drain, to eat up (energy) | Stress vreet energie. | 64 |
+| het dutje (mv. dutjes) | nap, short sleep | Door bijvoorbeeld te mediteren, een dutje te doen, te bidden of door gewoon iets leuks te doen. | 65 |
+| het eetpatroon (mv. eetpatronen) | eating pattern, diet | Het eetpatroon van de bewoners van de Blue Zones is gebaseerd op plantaardig voedsel. | 65 |
+| het voedsel | food | Eet plantaardig voedsel. | 65 |
+| de bladgroenten (mv.) | leafy greens | Maar ook noten, zaden, groene bladgroenten en zoete aardappelen staan op het menu. | 65 |
+| overigens | by the way, incidentally | Overigens drinkt men niet in alle Blue Zones alcohol. | 65 |
+| gunstig | favourable, beneficial | Creëer een sociaal gunstig netwerk. | 65 |
+| bevorderen → *bevordert* | to promote, to encourage | Het blijkt dat de mensen uit de blauwe zones leven in sociaal gunstige netwerken die gezond gedrag bevorderen. | 65 |
+| het gedrag | behaviour | Het blijkt dat de mensen uit de blauwe zones leven in sociaal gunstige netwerken die gezond gedrag bevorderen. | 65 |
 
 ---
 
@@ -133,6 +152,7 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | pakken | to grab | pak / pakt | pakte / pakten | heeft gepakt |
 | schelen | to save; to differ | scheel / scheelt | scheelde / scheelden | heeft gescheeld |
 | smaken (naar) | to taste (of) | smaak / smaakt | smaakte / smaakten | heeft gesmaakt |
+| toepassen | to apply, to put into practice | pas … toe / past … toe | paste / pasten … toe | heeft toegepast |
 
 ### Onregelmatige werkwoorden
 
@@ -147,7 +167,7 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | zich houden aan | to stick to | houd … me … aan / houdt zich aan | hield / hielden … zich aan | heeft zich gehouden aan |
 | binnenlopen | to walk into | loop … binnen / loopt … binnen | liep / liepen … binnen | is binnengelopen |
 
-- **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*
+- **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*; *toepassen* → *Ik pas die regel toe.*
 
 ---
 
@@ -161,6 +181,9 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | blijken | **uit** | (something) shows (that) | Uit onderzoek blijkt dat er negen gemeenschappelijke kenmerken zijn. | 52 |
 | zich houden | **aan** | to stick to | Daar houd ik me dan ook aan. | 60 |
 | smaken | **naar** | to taste (of) | Deze truffelmayonaise smaakt naar ui. | 61 |
+| baseren | **op** | to base on (*gebaseerd op* = based on) | Het eetpatroon van de bewoners van de Blue Zones is gebaseerd op plantaardig voedsel. | 65 |
+| behoren | **tot** | to belong to, to be part of | Het drinken van wijn behoort ook tot de specifieke kenmerken van de Blue Zone-bewoners. | 65 |
+| trouw zijn | **aan** | to be faithful to | Ze zijn trouw aan een levenspartner. | 65 |
 
 ---
 
@@ -187,6 +210,9 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | Het maakt niet uit. — *Het maakt me niet uit wat we eten.* | It doesn't matter. / I don't mind. (= Het kan me niet schelen.) | informeel | – |
 | Het kan me niet schelen. | I don't care. / It doesn't matter to me. | informeel | 61 |
 | Het kan me niet schelen of we winnen of verliezen. Meedoen vind ik belangrijker. | I don't care whether we win or lose. Taking part is more important to me. | informeel | 61 |
+| iets gemeen hebben — *De mensen die er leven hebben opvallend veel gemeen.* | to have something in common | informeel | 64 |
+| een versnelling terugschakelen — *Schakel een versnelling terug.* | to shift down a gear (figuratively: to slow down, take it easier) | informeel | 64 |
+| de stress af te schudden (afschudden) — *Dagelijkse routines om die stress af te schudden.* | to shake off the stress | informeel | 65 |
 
 ---
 
