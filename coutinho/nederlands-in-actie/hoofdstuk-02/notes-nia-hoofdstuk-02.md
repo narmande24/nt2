@@ -153,6 +153,9 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | schelen | to save; to differ | scheel / scheelt | scheelde / scheelden | heeft gescheeld |
 | smaken (naar) | to taste (of) | smaak / smaakt | smaakte / smaakten | heeft gesmaakt |
 | toepassen | to apply, to put into practice | pas … toe / past … toe | paste / pasten … toe | heeft toegepast |
+| bevorderen | to promote, to encourage | bevorder / bevordert | bevorderde / bevorderden | heeft bevorderd |
+| nastreven | to pursue, to strive for | streef … na / streeft … na | streefde / streefden … na | heeft nagestreefd |
+| terugschakelen | to shift down (a gear), to slow down | schakel … terug / schakelt … terug | schakelde / schakelden … terug | heeft teruggeschakeld |
 
 ### Onregelmatige werkwoorden
 
@@ -166,8 +169,22 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | vergeten | to forget | vergeet / vergeet | vergat / vergaten | heeft vergeten |
 | zich houden aan | to stick to | houd … me … aan / houdt zich aan | hield / hielden … zich aan | heeft zich gehouden aan |
 | binnenlopen | to walk into | loop … binnen / loopt … binnen | liep / liepen … binnen | is binnengelopen |
+| afspreken | to arrange, to agree | spreek … af / spreekt … af | sprak / spraken … af | heeft afgesproken |
+| beginnen | to begin | begin / begint | begon / begonnen | is begonnen |
+| blijven | to stay, to remain | blijf / blijft | bleef / bleven | is gebleven |
+| drinken | to drink | drink / drinkt | dronk / dronken | heeft gedronken |
+| eten | to eat | eet / eet | at / aten | heeft gegeten |
+| komen | to come | kom / komt | kwam / kwamen | is gekomen |
+| lezen | to read | lees / leest | las / lazen | heeft gelezen |
+| lopen | to walk | loop / loopt | liep / liepen | (is) gelopen |
+| schrijven | to write | schrijf / schrijft | schreef / schreven | heeft geschreven |
+| wegen | to weigh | weeg / weegt | woog / wogen | heeft gewogen |
+| winnen | to win | win / wint | won / wonnen | heeft gewonnen |
+| worden | to become | word / wordt | werd / werden | is geworden |
+| betreffen | to concern | betref / betreft | betrof / betroffen | heeft betroffen |
+| vreten | to drain, to eat up (energy) | vreet / vreet | vrat / vraten | heeft gevreten |
 
-- **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*; *toepassen* → *Ik pas die regel toe.*
+- **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*; *toepassen* → *Ik pas die regel toe*; *zich aanmelden* → *Ik meld me aan voor de pubquiz*; *binnenlopen* → *Ze loopt de winkel binnen.*; *afspreken* → *We spreken af.*; *nastreven* → *Ze streeft een doel na.*; *terugschakelen* → *Schakel een versnelling terug.*
 
 ---
 
@@ -184,6 +201,7 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | baseren | **op** | to base on (*gebaseerd op* = based on) | Het eetpatroon van de bewoners van de Blue Zones is gebaseerd op plantaardig voedsel. | 65 |
 | behoren | **tot** | to belong to, to be part of | Het drinken van wijn behoort ook tot de specifieke kenmerken van de Blue Zone-bewoners. | 65 |
 | trouw zijn | **aan** | to be faithful to | Ze zijn trouw aan een levenspartner. | 65 |
+| merken | **van** | to notice | Philipp heeft niets gemerkt van het lawaai van zijn buren. | – |
 
 ---
 
@@ -213,6 +231,7 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | iets gemeen hebben — *De mensen die er leven hebben opvallend veel gemeen.* | to have something in common | informeel | 64 |
 | een versnelling terugschakelen — *Schakel een versnelling terug.* | to shift down a gear (figuratively: to slow down, take it easier) | informeel | 64 |
 | de stress af te schudden (afschudden) — *Dagelijkse routines om die stress af te schudden.* | to shake off the stress | informeel | 65 |
+| Dat hangt van het weer af. | That depends on the weather. | informeel | 70 |
 
 ---
 
