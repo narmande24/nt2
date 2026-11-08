@@ -84,7 +84,7 @@
 | voorverpakt → *voorverpakte* | pre-packaged | Ik haal steeds minder voorverpakte groenten. | 60 |
 | het lijstje (mv. lijstjes) | list | Ik maak dan een lijstje voor de boodschappen. | 60 |
 | zich houden aan → *houd … me … aan* | to stick to | Daar houd ik me dan ook aan. | 60 |
-| tegenwoordig | nowadays | Vlees koop ik tegenwoordig niet meer in de supermarkt. | 60 |
+| **tegenwoordig** | nowadays | Vlees koop ik tegenwoordig niet meer in de supermarkt. | 60 |
 | **schelen → *scheelt*** | hier: to save; ook: to differ | Dat scheelt soms bijna de helft van het geld. | 60 |
 | smaken (naar) → *smaakt* | to taste (of) | Dat scheelt de helft van het geld en smaakt beter. | 60 |
 | binnenlopen → *loopt … binnen* | to walk into | Heb je een strategie als je de winkel binnenloopt? | 60 |
@@ -184,6 +184,7 @@ nowadays (≠ vroeger) — *Tegenwoordig doen veel mensen mee aan een pubquiz. V
 | Het scheelt € 0,50. | It saves €0.50. / It is €0.50 cheaper. | informeel | 61 |
 | Wat scheelt eraan? | What's the matter? | informeel | 61 |
 | Wat scheelt eraan? Voel je je wel lekker? Je ziet er moe uit. | What's the matter? Are you feeling alright? You look tired. | informeel | 61 |
+| Het maakt niet uit. — *Het maakt me niet uit wat we eten.* | It doesn't matter. / I don't mind. (= Het kan me niet schelen.) | informeel | – |
 | Het kan me niet schelen. | I don't care. / It doesn't matter to me. | informeel | 61 |
 | Het kan me niet schelen of we winnen of verliezen. Meedoen vind ik belangrijker. | I don't care whether we win or lose. Taking part is more important to me. | informeel | 61 |
 
