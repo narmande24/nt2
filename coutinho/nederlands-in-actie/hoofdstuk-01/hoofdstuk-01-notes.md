@@ -69,6 +69,31 @@
 | het doelpunt (mv. doelpunten) | goal | Ik wilde meer doelpunten maken met voetbal. | 23 |
 | de krant (mv. kranten) | newspaper | Ik wilde de krant vaker lezen. | 23 |
 | vervelend | annoying | Dat is een vervelend probleem, maar voor elk probleem is een oplossing. | 27 |
+| dierbaar → *dierbaarste* | precious, beloved, (items you hold) dear | Fotograaf Clemens Rikken vroeg bekende Nederlanders om hun dierbaarste spullen in een doos te doen. | 36 |
+| stilstaan (bij) → *sta … stil bij* | to stop to think about, to stand still | Ik sta eigenlijk nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
+| meemaken → *meegemaakt* | to experience (witness) | Ik sta nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
+| (uit)kiezen → *uitkoos* | to choose (to select, rather than *kiezen*) | Toen ik de spullen uitkoos, realiseerde ik me hoeveel daarvan uit mijn geboorteland Haïti komen. | 36 |
+| daarvan | of this / of that | Hoeveel daarvan uit mijn geboorteland Haïti komen. | 36 |
+| het geboorteland | country of birth | …uit mijn geboorteland Haïti. | 36 |
+| de geboorte | birth | Een paar weken na haar geboorte hebben Nederlanders haar geadopteerd. | 39 |
+| de herinnering (aan) → *herinneringen aan* | memories (of) | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
+| verwerken (in) → *in … verwerken* | hier: to showcase in; ook: to use in, to process in | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
+| de taptap | taptap (colourful bus in Haïti) | De taptap is een bus in Haïti. | 36 |
+| beschilderen → *beschilderd* | to paint (decorate) | Die bussen worden prachtig beschilderd. | 36 |
+| meekrijgen → *kreeg … mee* | to be given (as a gift); ook: getting + going along | Ik kreeg die papieren bus mee, samen met een gouden rammelaartje. | 36 |
+| gouden | gold, golden | Het gouden horloge heb ik van mijn moeder gekregen. | 36 |
+| het rammelaartje (de rammelaar) | rattle | Samen met een gouden rammelaartje. | 36 |
+| het horloge | watch | Het gouden horloge heb ik van mijn moeder gekregen en dat draag ik elke dag. | 36 |
+| dankbaar (voor) | grateful (for) | Daar ben ik haar heel dankbaar voor. | 36 |
+| de Amersfoorter | person from Amersfoort | Clemens is Amersfoorter, net als ik. | 38 |
+| hangen (aan) | hier: to hang (on); ook: to hang (onto something) | In de doos hangen foto's van mijn vriendin en onze kinderen. | 38 |
+| de schijf (mv. schijven) | disk | Ook staat er een harde schijf in. | 38 |
+| bewaren → *bewaar* | to keep | Daar bewaar ik al mijn muziek op. | 38 |
+| Carré | theatre in Amsterdam | Een kaartje van Carré. | 38 |
+| uitverkopen → *uitverkochte* | to sell out; sold out | Ik stond met mijn eigen show voor een uitverkochte zaal. | 38 |
+| de oogziekte | eye disease | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
+| de ziekte (mv. ziektes) | disease, illness | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
+| het zicht | vision, view | Ik heb maar 30 procent zicht. | 38 |
 
 ---
 
@@ -82,6 +107,24 @@
 ### bereiken
 1. to achieve — *Wat wil je bereiken in je leven?*
 2. to reach (contact) — *Ik kan hem niet bereiken, niet per telefoon of mail.*
+
+### stilstaan (bij)
+1. to stand still / stop — *Je moet eerst even stilstaan voordat je de straat oversteekt.*
+2. stilstaan bij = to stop and think about — *Op 31 december staan mensen even stil bij de belangrijke dingen uit het oude jaar. Daar denken ze dan aan voordat ze kijken naar het nieuwe jaar.*
+
+### meemaken
+to experience — *Ik heb in het weekend niet zoveel meegemaakt. Ik moest studeren.*
+
+### (uit)kiezen
+to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: een gitaar, piano of trompet?*
+
+### verwerken (in)
+1. to process — *Dit is heel veel nieuwe informatie. Ik kan het niet in één keer verwerken.*
+2. verwerken in = to use / showcase in — *In zijn schilderijen verwerkt hij zijn herinneringen aan zijn eigen land.*
+
+### zicht, het (op – hebben)
+1. vision, view — *Bij heel slecht weer heb je geen goed zicht. Je kunt dan misschien maar vijfhonderd meter zien.*
+2. op zicht hebben = to have on approval — *Als je spullen online koopt, mag je die meestal veertien dagen op zicht hebben. Daarna is de koop definitief.*
 
 ---
 
@@ -106,6 +149,15 @@
 | onderzoek doen (naar) | to do research (on) | doe / doet … onderzoek | deed / deden … onderzoek | heeft … onderzoek gedaan |
 | zich ergeren (aan) | to get annoyed (by) | erger me / ergert zich | ergerde / ergerden … zich | heeft zich geërgerd |
 | een hekel hebben aan | to dislike, hate | heb / heeft … een hekel aan | had / hadden … een hekel aan | heeft … een hekel gehad |
+| stilstaan (bij) | to stop to think about | sta / staat … stil (bij) | stond / stonden … stil | heeft stilgestaan |
+| meemaken | to experience | maak / maakt … mee | maakte / maakten … mee | heeft meegemaakt |
+| uitkiezen | to choose, select | kies / kiest … uit | koos / kozen … uit | heeft uitgekozen |
+| verwerken (in) | to showcase / process in | verwerk / verwerkt | verwerkte / verwerkten | heeft verwerkt |
+| beschilderen | to paint (decorate) | beschilder / beschildert | beschilderde / beschilderden | heeft beschilderd |
+| meekrijgen | to be given (as a gift) | krijg / krijgt … mee | kreeg / kregen … mee | heeft meegekregen |
+| hangen (aan) | to hang | hang / hangt | hing / hingen | heeft gehangen |
+| bewaren | to keep | bewaar / bewaart | bewaarde / bewaarden | heeft bewaard |
+| uitverkopen | to sell out | verkoop / verkoopt … uit | verkocht / verkochten … uit | heeft uitverkocht |
 
 - **Let op:** bij inversie valt de -t weg: *zing jij…?*, *woon jij…?* (maar: *zingt hij…?*).
 - **Let op:** scheidbare werkwoorden: *uitkomen* → *Die droom komt uit* / *is uitgekomen*.
@@ -126,6 +178,12 @@
 | merken **van** | to notice | Je merkt het. | 22 |
 | onderzoek doen **naar** | to do research on | …onderzoek doe en publiceer. | 23 |
 | zich ergeren **aan** | to get annoyed by | Ik wilde me minder ergeren in het verkeer. | 23 |
+| stilstaan **bij** | to stop to think about | Ik sta nooit stil bij wat ik heb meegemaakt. | 36 |
+| herinneringen **aan** | memories of | De herinneringen aan mijn roots. | 36 |
+| verwerken **in** | to showcase / process in | …om erin te verwerken. | 36 |
+| dankbaar **voor** | grateful for | Daar ben ik haar heel dankbaar voor. | 36 |
+| hangen **aan** | to hang on | In de doos hangen foto's. | 38 |
+| zicht **op** hebben | to have on approval | Je mag die veertien dagen op zicht hebben. | 39 |
 
 ---
 
