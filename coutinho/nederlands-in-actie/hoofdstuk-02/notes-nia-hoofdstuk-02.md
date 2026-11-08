@@ -71,6 +71,36 @@
 
 ---
 
+## 3. Werkwoordvervoegingen (verb conjugations)
+
+### Regelmatige werkwoorden
+
+| Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
+|------------|-----------|--------------------|-----------------------|-----------|
+| zich aanmelden (voor) | to sign up (for) | meld me aan / meldt zich aan | meldde / meldden … zich aan | heeft zich aangemeld |
+| opleveren | to count for, to produce | lever … op / levert … op | leverde / leverden … op | heeft opgeleverd |
+| gillen | to scream, to yell | gil / gilt | gilde / gilden | heeft gegild |
+| twijfelen (aan / over / tussen) | to be unsure (about) | twijfel / twijfelt | twijfelde / twijfelden | heeft getwijfeld |
+| verwennen | to spoil (someone) | verwen / verwent | verwende / verwenden | heeft verwend |
+| verbranden | to burn | verbrand / verbrandt | verbrandde / verbrandden | heeft verbrand |
+| kauwen (op) | to chew (on) | kauw / kauwt | kauwde / kauwden | heeft gekauwd |
+| noemen | to name | noem / noemt | noemde / noemden | heeft genoemd |
+
+### Onregelmatige werkwoorden
+
+| Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
+|------------|-----------|--------------------|-----------------------|-----------|
+| opzoeken | to look up | zoek … op / zoekt … op | zocht / zochten … op | heeft opgezocht |
+| verbieden | to forbid | verbied / verbiedt | verbood / verboden | heeft verboden |
+| bewegen | to move, to exercise | beweeg / beweegt | bewoog / bewogen | heeft bewogen |
+| afhangen (van) | to depend on | hang … af / hangt … af | hing / hingen … af | heeft afgehangen |
+| blijken (uit) | to show (that) | blijk / blijkt | bleek / bleken | is gebleken |
+| vergeten | to forget | vergeet / vergeet | vergat / vergaten | heeft vergeten |
+
+- **Let op:** scheidbare werkwoorden: *opzoeken* → *Hij zoekt het op* / *heeft het opgezocht*; *afhangen* → *Het hangt af van…*; *opleveren* → *Dat levert een punt op.*
+
+---
+
 ## 4. Prepositie (prepositions)
 | Woord | Prepositie | Betekenis | Voorbeeldzin | Pag. |
 |-------|------------|-----------|--------------|------|
