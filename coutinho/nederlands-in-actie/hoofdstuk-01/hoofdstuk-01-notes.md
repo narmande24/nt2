@@ -94,6 +94,23 @@
 | de oogziekte | eye disease | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
 | de ziekte (mv. ziektes) | disease, illness | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
 | het zicht | vision, view | Ik heb maar 30 procent zicht. | 38 |
+| adopteren → *geadopteerd* | to adopt | Een paar weken na haar geboorte hebben Nederlanders haar geadopteerd. | 39 |
+| creatief | creative | Ik ben creatief: ik teken en schilder graag. | – |
+| enthousiast | enthusiastic | Ze is enthousiast over haar nieuwe studie. | – |
+| de fotograaf (mv. fotografen) | photographer | Fotograaf Clemens Rikken vroeg bekende Nederlanders om hun dierbaarste spullen in een doos te doen. | 36 |
+| de gitaar (mv. gitaren) | guitar | Ik zing, speel gitaar en speel piano. | 21 |
+| het orkest (mv. orkesten) | orchestra | Ik speel piano in het orkest van mijn studentenvereniging. | 21 |
+| de piano (mv. piano's) | piano | Ik speel piano in het orkest van mijn studentenvereniging. | 21 |
+| de presentator (mv. presentatoren) | presenter, host | De presentator stelt de gasten veel vragen. | – |
+| het project (mv. projecten) | project | Ik werk aan een project over mijn geboorteland. | – |
+| de rapper (mv. rappers) | rapper | Mijn broer wil rapper worden. | – |
+| zich realiseren → *realiseerde ik me* | to realise | Toen ik de spullen uitkoos, realiseerde ik me hoeveel daarvan uit Haïti komen. | 36 |
+| rechten (mv.) | law (field of study) | Studie: vierdejaarsstudent rechten in Rotterdam. | 21 |
+| de roots (mv.) | roots | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
+| de show (mv. shows) | show | Ik stond met mijn eigen show voor een uitverkochte zaal. | 38 |
+| stimuleren → *gestimuleerd* | to encourage, stimulate | Mijn ouders stimuleren me om te studeren. | – |
+| de telefoon (mv. telefoons) | telephone | Als je praat over spullen, dan is dat mijn telefoon. | 22 |
+| de zelfreflectie | self-reflection | Zelfreflectie betekent nadenken over jezelf. | – |
 
 ---
 
@@ -130,34 +147,66 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 
 ## 3. Werkwoordvervoegingen (verb conjugations)
 
+### Regelmatige werkwoorden
+
 | Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
 |------------|-----------|--------------------|-----------------------|-----------|
+| adopteren | to adopt | adopteer / adopteert | adopteerde / adopteerden | heeft geadopteerd |
+| beschilderen | to paint (decorate) | beschilder / beschildert | beschilderde / beschilderden | heeft beschilderd |
+| bereiken | to achieve | bereik / bereikt | bereikte / bereikten | heeft bereikt |
+| bewaren | to keep | bewaar / bewaart | bewaarde / bewaarden | heeft bewaard |
+| fluisteren | to whisper | fluister / fluistert | fluisterde / fluisterden | heeft gefluisterd |
+| meemaken | to experience | maak / maakt … mee | maakte / maakten … mee | heeft meegemaakt |
+| merken | to notice | merk / merkt | merkte / merkten | heeft gemerkt |
+| publiceren | to publish | publiceer / publiceert | publiceerde / publiceerden | heeft gepubliceerd |
+| zich realiseren | to realise | realiseer me / realiseert zich | realiseerde / realiseerden … zich | heeft zich gerealiseerd |
+| schilderen | to paint | schilder / schildert | schilderde / schilderden | heeft geschilderd |
+| schreeuwen | to shout | schreeuw / schreeuwt | schreeuwde / schreeuwden | heeft geschreeuwd |
+| stimuleren | to encourage | stimuleer / stimuleert | stimuleerde / stimuleerden | heeft gestimuleerd |
+| sturen (naar / aan) | to send (to) | stuur / stuurt | stuurde / stuurden | heeft gestuurd |
+| tekenen | to draw | teken / tekent | tekende / tekenden | heeft getekend |
 | vernoemen | to name (after) | vernoem / vernoemt | vernoemde / vernoemden | heeft vernoemd |
 | verwarren | to confuse | verwar / verwart | verwarde / verwarden | heeft verward |
-| tekenen | to draw | teken / tekent | tekende / tekenden | heeft getekend |
-| schilderen | to paint | schilder / schildert | schilderde / schilderden | heeft geschilderd |
-| zingen | to sing | zing / zingt | zong / zongen | heeft gezongen |
-| vliegen | to fly | vlieg / vliegt | vloog / vlogen | heeft / is gevlogen |
-| merken | to notice | merk / merkt | merkte / merkten | heeft gemerkt |
-| zorgen (voor) | to take care of | zorg / zorgt | zorgde / zorgden | heeft gezorgd |
-| schreeuwen | to shout | schreeuw / schreeuwt | schreeuwde / schreeuwden | heeft geschreeuwd |
-| sturen (naar / aan) | to send (to) | stuur / stuurt | stuurde / stuurden | heeft gestuurd |
-| publiceren | to publish | publiceer / publiceert | publiceerde / publiceerden | heeft gepubliceerd |
-| fluisteren | to whisper | fluister / fluistert | fluisterde / fluisterden | heeft gefluisterd |
-| bereiken | to achieve | bereik / bereikt | bereikte / bereikten | heeft bereikt |
-| uitkomen | to come true | kom uit / komt uit | kwam uit / kwamen uit | is uitgekomen |
-| onderzoek doen (naar) | to do research (on) | doe / doet … onderzoek | deed / deden … onderzoek | heeft … onderzoek gedaan |
-| zich ergeren (aan) | to get annoyed (by) | erger me / ergert zich | ergerde / ergerden … zich | heeft zich geërgerd |
-| een hekel hebben aan | to dislike, hate | heb / heeft … een hekel aan | had / hadden … een hekel aan | heeft … een hekel gehad |
-| stilstaan (bij) | to stop to think about | sta / staat … stil (bij) | stond / stonden … stil | heeft stilgestaan |
-| meemaken | to experience | maak / maakt … mee | maakte / maakten … mee | heeft meegemaakt |
-| uitkiezen | to choose, select | kies / kiest … uit | koos / kozen … uit | heeft uitgekozen |
 | verwerken (in) | to showcase / process in | verwerk / verwerkt | verwerkte / verwerkten | heeft verwerkt |
-| beschilderen | to paint (decorate) | beschilder / beschildert | beschilderde / beschilderden | heeft beschilderd |
-| meekrijgen | to be given (as a gift) | krijg / krijgt … mee | kreeg / kregen … mee | heeft meegekregen |
+| zich ergeren (aan) | to get annoyed (by) | erger me / ergert zich | ergerde / ergerden … zich | heeft zich geërgerd |
+| zorgen (voor) | to take care of | zorg / zorgt | zorgde / zorgden | heeft gezorgd |
+
+### Onregelmatige werkwoorden
+
+| Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
+|------------|-----------|--------------------|-----------------------|-----------|
+| denken | to think | denk / denkt | dacht / dachten | heeft gedacht |
+| doen | to do | doe / doet | deed / deden | heeft gedaan |
+| onderzoek doen (naar) | to do research (on) | doe / doet … onderzoek | deed / deden … onderzoek | heeft … onderzoek gedaan |
+| dragen | to wear, carry | draag / draagt | droeg / droegen | heeft gedragen |
+| gaan | to go | ga / gaat | ging / gingen | is gegaan |
 | hangen (aan) | to hang | hang / hangt | hing / hingen | heeft gehangen |
-| bewaren | to keep | bewaar / bewaart | bewaarde / bewaarden | heeft bewaard |
+| hebben | to have | heb / heeft | had / hadden | heeft gehad |
+| een hekel hebben aan | to dislike, hate | heb / heeft … een hekel aan | had / hadden … een hekel aan | heeft … een hekel gehad |
+| houden | to hold, keep (*houden van* = to love) | houd / houdt | hield / hielden | heeft gehouden |
+| kiezen | to choose | kies / kiest | koos / kozen | heeft gekozen |
+| uitkiezen | to choose, select | kies / kiest … uit | koos / kozen … uit | heeft uitgekozen |
+| kijken | to look | kijk / kijkt | keek / keken | heeft gekeken |
+| krijgen | to get | krijg / krijgt | kreeg / kregen | heeft gekregen |
+| meekrijgen | to be given (as a gift) | krijg / krijgt … mee | kreeg / kregen … mee | heeft meegekregen |
+| kunnen | can, to be able to | kan / kan | kon / konden | heeft gekund |
+| liggen | to lie (be positioned) | lig / ligt | lag / lagen | heeft gelegen |
+| lijken | to seem | lijk / lijkt | leek / leken | heeft geleken |
+| moeten | must, to have to | moet / moet | moest / moesten | heeft gemoeten |
+| mogen | may, to be allowed | mag / mag | mocht / mochten | heeft gemogen |
+| staan | to stand | sta / staat | stond / stonden | heeft gestaan |
+| stilstaan (bij) | to stop to think about | sta / staat … stil (bij) | stond / stonden … stil | heeft stilgestaan |
+| uitkomen | to come true | kom uit / komt uit | kwam uit / kwamen uit | is uitgekomen |
 | uitverkopen | to sell out | verkoop / verkoopt … uit | verkocht / verkochten … uit | heeft uitverkocht |
+| vinden | to find, think | vind / vindt | vond / vonden | heeft gevonden |
+| vliegen | to fly | vlieg / vliegt | vloog / vlogen | heeft / is gevlogen |
+| weten | to know | weet / weet | wist / wisten | heeft geweten |
+| willen | to want | wil / wil | wilde (wou) / wilden | heeft gewild |
+| zijn | to be | ben / is | was / waren | is geweest |
+| zingen | to sing | zing / zingt | zong / zongen | heeft gezongen |
+| zitten | to sit | zit / zit | zat / zaten | heeft gezeten |
+| zoeken | to look for | zoek / zoekt | zocht / zochten | heeft gezocht |
+| zullen | will, shall | zal / zal | zou / zouden | – |
 
 - **Let op:** bij inversie valt de -t weg: *zing jij…?*, *woon jij…?* (maar: *zingt hij…?*).
 - **Let op:** scheidbare werkwoorden: *uitkomen* → *Die droom komt uit* / *is uitgekomen*.
