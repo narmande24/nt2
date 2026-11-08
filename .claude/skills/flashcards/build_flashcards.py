@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build a flashcard page from a hoofdstuk notes file (the notes stay the source of truth).
 
-Usage: build_flashcards.py <path/to/hoofdstuk-NN-notes.md> [--out <file.html>]
+Usage: build_flashcards.py <path/to/notes-nia-hoofdstuk-NN.md> [--out <file.html>]
 Default output: flashcards-nia-hNN.html next to the notes file.
 """
 import argparse

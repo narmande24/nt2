@@ -1,18 +1,18 @@
 ---
 name: flashcards
-description: Build a flashcard web page from a hoofdstuk notes file in this repo (e.g. coutinho/nederlands-in-actie/hoofdstuk-01/hoofdstuk-01-notes.md). Use when the user asks for flashcards, a flashcard deck, or to practise the words of a hoofdstuk or note.
+description: Build a flashcard web page from a hoofdstuk notes file in this repo (e.g. coutinho/nederlands-in-actie/hoofdstuk-01/notes-nia-hoofdstuk-01.md). Use when the user asks for flashcards, a flashcard deck, or to practise the words of a hoofdstuk or note.
 ---
 
 # Flashcards from a hoofdstuk note
 
-Turns the vocabulary tables in a `hoofdstuk-NN-notes.md` file into one self-contained,
+Turns the vocabulary tables in a `notes-nia-hoofdstuk-NN.md` file into one self-contained,
 offline-friendly HTML page. The notes stay the single source of truth: never edit the
 generated HTML by hand, change the notes (or the script) and regenerate.
 
 ## Run
 
 ```bash
-python3 .claude/skills/flashcards/build_flashcards.py <path/to/hoofdstuk-NN-notes.md>
+python3 .claude/skills/flashcards/build_flashcards.py <path/to/notes-nia-hoofdstuk-NN.md>
 ```
 
 - Output: `flashcards-nia-hNN.html` next to the notes file (override with `--out <file>`).
