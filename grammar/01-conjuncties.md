@@ -28,8 +28,8 @@ In de bijzin staan de **werkwoorden op de laatste plaats**. Staat de bijzin **vo
 | zodat | so that | Ik ga de krant vaker lezen, **zodat** ik nieuwe woorden leer. |
 | zodra | as soon as | Mijn vader zoekt een oplossing **zodra** hij een probleem ziet. |
 | hoewel | although | John houdt van voetbal, **hoewel** hij niet vaak doelpunten maakt. |
-| wanneer | when(ever) | (eigen notitie: synoniem van *als*) |
-| tenzij | unless | (eigen notitie) |
+| wanneer | when(ever) (synoniem van *als*) | Ik bel je **wanneer** ik thuis ben. / **Wanneer** ik thuis ben, bel ik je. |
+| tenzij | unless | We gaan morgen fietsen, **tenzij** het regent. / **Tenzij** het regent, gaan we morgen fietsen. |
 
 #### Let op!
 - **totdat** en **voordat** kunnen ook korter: **tot** en **voor**.
