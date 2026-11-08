@@ -6,7 +6,7 @@
 
 | Woord | Betekenis | Voorbeeldzin | Pag. |
 |-------|-----------|--------------|------|
-| maandelijks → *maandelijkse* | monthly | Welkom allemaal in Bar Gezellig voor onze maandelijkse pubquiz. | 51 |
+| maandelijks → *maandelijkse* | monthly | Welkom allemaal in Bar Gezellig voor onze maandelijkse pubquiz. | 51, 56 |
 | zich aanmelden (voor) → *zich aangemeld voor* | to sign up (for) | Een nieuw team heeft zich aangemeld voor vanavond. | 51 |
 | de regel (mv. regels) | rule | Speciaal voor jullie, maar ook voor de rest nog even de regels. | 51 |
 | het niveau (mv. niveaus) | level | Jullie krijgen vijftig vragen op verschillende niveaus. | 51 |
@@ -51,7 +51,7 @@
 | **kauwen (op)** | to chew (on) | Dat is inclusief kauwen, toch? | 52 |
 | de chips (mv.) | crisps | 's Avonds met een zak chips op de bank. | 52 |
 | de plek (mv. plekken) | place, spot | Blue Zones zijn plekken in Italië, Japan, de VS, Costa Rica en Griekenland. | 52 |
-| elders | elsewhere | Mensen leven langer en gezonder dan elders op de wereld. | 52 |
+| elders | elsewhere | Mensen leven langer en gezonder dan elders op de wereld. / Ze woont elders. | 52, 55 |
 | **blijken uit** → *uit … blijkt* | (something) shows (that) (to show) | Uit onderzoek blijkt dat er negen gemeenschappelijke kenmerken zijn. | 52 |
 | **gemeenschappelijk** → *gemeenschappelijke* | common | Er zijn negen gemeenschappelijke kenmerken van de levensstijl. | 52 |
 | **het kenmerk (mv. kenmerken)** | characteristic | Er zijn negen gemeenschappelijke kenmerken van de levensstijl in deze gebieden. | 52 |
@@ -92,3 +92,6 @@
 | Uit onderzoek blijkt dat er negen gemeenschappelijke kenmerken zijn. | Research shows that there are nine common characteristics. | formeel | 52 |
 | Er zijn negen gemeenschappelijke kenmerken van de levensstijl in deze gebieden. | There are nine common characteristics of the lifestyle in these areas. | – | 52 |
 | anderhalf — *Volgens mij is het anderhalve liter.* | one and a half (*anderhalve* before a de-word, e.g. *anderhalve liter*) | – | 52 |
+| Ze woont elders. | She lives elsewhere. | – | 55 |
+| maandelijks | monthly, once a month | – | 56 |
+| Mijn geheugen is niet zo goed. | My memory is not so good. | informeel | – |
