@@ -10,7 +10,7 @@
 | vierdejaarsstudent rechten | fourth-year law student | Studie: vierdejaarsstudent rechten in Rotterdam. | 21 |
 | grappig | funny | Ik ben een vrouw, maar ik heet Jip. Grappig hè? | 21 |
 | vernoemen (naar) → *vernoemd naar* | to name (after) | Mijn broer is vernoemd naar oma, ze heette Anne. | 21 |
-| verwarren → *verwarrend* | to confuse; confusing | Mensen vinden onze namen verwarrend. | 21 |
+| verwarren → ***verwarrend*** | to confuse; confusing | Mensen vinden onze namen verwarrend. | 21 |
 | tekenen | to draw | Ik houd van tekenen en schilderen. | 21 |
 | schilderen | to paint | Ik houd van tekenen en schilderen. | 21 |
 | muzikaal | musically inclined | Ik ben ook muzikaal. Ik zing, speel gitaar en speel piano in het orkest van mijn studentenvereniging. | 21 |
@@ -21,15 +21,15 @@
 | het beest (mv. beesten) | hier: animal, ook: beast | Ik vind beren leuke beesten. | 22 |
 | sterk | strong | Beren zijn sterk. | 22 |
 | gevaarlijk | dangerous | Ik wil niet dat iemand mij gevaarlijk vindt. | 22 |
-| de vlinder (mv. vlinders) | butterfly | Ik wil misschien wel een vlinder of een paard zijn. | 22 |
+| **de vlinder** (mv. vlinders) | butterfly | Ik wil misschien wel een vlinder of een paard zijn. | 22 |
 | het paard (mv. paarden) | horse | Een paard is een indrukwekkend dier. | 22 |
 | vliegen | to fly | Een vlinder kan vliegen en heeft vaak prachtige kleuren. | 22 |
-| indrukwekkend | impressive | Een paard is een indrukwekkend dier. | 22 |
-| merken (van) → *merkt* | hier: you see, as you can see; ook: to see (that), to notice (that) | Je merkt het, ik kan niet kiezen. | 22 |
+| **indrukwekkend** | impressive | Een paard is een indrukwekkend dier. | 22 |
+| **merken** (van) → *merkt* | hier: you see, as you can see; ook: to see (that), to notice (that) | Je merkt het, ik kan niet kiezen. | 22 |
 | trots (op) | proud of | Ik ben trots op mijn vader. | 22 |
 | de held (mv. helden) | hero | Hij is mijn held, omdat hij voor Anne en mij heeft gezorgd. | 22 |
 | zorgen voor → *voor … gezorgd* | hier: to take care of; ook: to care for | Hij heeft voor Anne en mij gezorgd toen mijn moeder ernstig ziek was. | 22 |
-| ernstig | serious(ly) | Mijn moeder was ernstig ziek. | 22 |
+| **ernstig** | serious(ly) | Mijn moeder was ernstig ziek. | 22 |
 | vrolijk | cheerful, happy | Hij heeft leuke, vrolijke mensen van ons gemaakt. | 22 |
 | vooral | especially | Vooral van mijn vader heb ik geleerd… | 22 |
 | de oplossing (mv. oplossingen) | solution | …dat er voor ieder probleem een oplossing is. | 22 |
@@ -42,19 +42,19 @@
 | sommige | some | Sommige tekeningen zijn zelfs gepubliceerd. | 22 |
 | zelfs | even | Sommige tekeningen zijn zelfs gepubliceerd. | 22 |
 | publiceren → *gepubliceerd* | to publish | Sommige tekeningen zijn zelfs gepubliceerd. | 22 |
-| bescheiden | modest | Ik ben heel bescheiden. | 22 |
+| **bescheiden** | modest | Ik ben heel bescheiden. | 22 |
 | universitair | university | Kinderarts in een universitair medisch centrum. | 22 |
 | medisch | medical | Een universitair medisch centrum. | 22 |
 | het bezit | possession | Ze zijn niet mijn bezit. | 22 |
 | de spullen (mv.) | things | Als je praat over spullen, dan is dat mijn telefoon. | 22 |
-| fluisteren | to whisper | Ik vind fluisteren een prachtig woord. | 23 |
+| **fluisteren** | to whisper | Ik vind fluisteren een prachtig woord. | 23 |
 | het gevoel (mv. gevoelens) | feeling | Voor mijn gevoel past het woord precies bij de betekenis. | 23 |
 | de droom (mv. dromen) | dream | Wat is je grootste droom? | 23 |
 | de wereld (mv. werelden) | world | Mijn grootste droom gaat over kinderen in Zambia, Afrika, de wereld. | 23 |
 | persoonlijk | personal | Mijn persoonlijk grootste droom heb ik bereikt. | 23 |
 | bereiken → *bereikt* | to achieve | Mijn persoonlijk grootste droom heb ik bereikt. | 23 |
 | het ziekenhuis (mv. ziekenhuizen) | hospital | Ik werk in een ziekenhuis als kinderarts. | 23 |
-| uitkomen → *uitgekomen* | hier: to come true; ook: to reveal, to end up at | Die droom is uitgekomen. | 23 |
+| **uitkomen** → *uitgekomen* | hier: to come true; ook: to reveal, to end up at | Die droom is uitgekomen. | 23 |
 | de eigenschap (mv. eigenschappen) | characteristic | Wat is je beste eigenschap? | 23 |
 | geduldig | patient | Ik ben heel geduldig, met mijn patiënten. | 23 |
 | mezelf | myself | Soms niet met mezelf, maar dat is een ander verhaal. | 23 |
@@ -62,31 +62,31 @@
 | onderzoek doen (naar) → *onderzoek doe* | to do research (on) | Ik hoop dat ik wetenschappelijk onderzoek doe en publiceer. | 23 |
 | het onderzoek (mv. onderzoeken) | research | Ik hoop dat ik wetenschappelijk onderzoek doe. | 23 |
 | het platteland | countryside | Of we wonen hier op het platteland, dat wil Safiya graag. | 23 |
-| voorlopig | for now, for the time being | Voorlopig blijven we hier wonen. | 23 |
+| **voorlopig** | for now, for the time being | Voorlopig blijven we hier wonen. | 23 |
 | goede voornemens | New Year's resolutions | Wat waren je goede voornemens voor dit jaar? | 23 |
 | het voornemen (mv. voornemens) | intention | Wat waren je goede voornemens voor dit jaar? | 23 |
 | zich ergeren (aan) → *me … ergeren* | to get annoyed (by) | Ik wilde me minder ergeren in het verkeer. | 23 |
 | het doelpunt (mv. doelpunten) | goal | Ik wilde meer doelpunten maken met voetbal. | 23 |
 | de krant (mv. kranten) | newspaper | Ik wilde de krant vaker lezen. | 23 |
-| vervelend | annoying | Dat is een vervelend probleem, maar voor elk probleem is een oplossing. | 27 |
+| **vervelend** | annoying | Dat is een vervelend probleem, maar voor elk probleem is een oplossing. | 27 |
 | dierbaar → *dierbaarste* | precious, beloved, (items you hold) dear | Fotograaf Clemens Rikken vroeg bekende Nederlanders om hun dierbaarste spullen in een doos te doen. | 36 |
-| stilstaan (bij) → *sta … stil bij* | to stop to think about, to stand still | Ik sta eigenlijk nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
-| meemaken → *meegemaakt* | to experience (witness) | Ik sta nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
+| **stilstaan** (bij) → *sta … stil bij* | to stop to think about, to stand still | Ik sta eigenlijk nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
+| **meemaken** → *meegemaakt* | to experience (witness) | Ik sta nooit stil bij wat ik allemaal heb meegemaakt. | 36 |
 | (uit)kiezen → *uitkoos* | to choose (to select, rather than *kiezen*) | Toen ik de spullen uitkoos, realiseerde ik me hoeveel daarvan uit mijn geboorteland Haïti komen. | 36 |
 | daarvan | of this / of that | Hoeveel daarvan uit mijn geboorteland Haïti komen. | 36 |
 | het geboorteland | country of birth | …uit mijn geboorteland Haïti. | 36 |
-| de geboorte | birth | Een paar weken na haar geboorte hebben Nederlanders haar geadopteerd. | 39 |
+| **de geboorte** | birth | Een paar weken na haar geboorte hebben Nederlanders haar geadopteerd. | 39 |
 | de herinnering (aan) → *herinneringen aan* | memories (of) | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
-| verwerken (in) → *in … verwerken* | hier: to showcase in; ook: to use in, to process in | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
+| **verwerken** (in) → *in … verwerken* | hier: to showcase in; ook: to use in, to process in | De herinneringen aan mijn roots vond ik mooi om erin te verwerken. | 36 |
 | de taptap | taptap (colourful bus in Haïti) | De taptap is een bus in Haïti. | 36 |
 | beschilderen → *beschilderd* | to paint (decorate) | Die bussen worden prachtig beschilderd. | 36 |
-| meekrijgen → *kreeg … mee* | to be given (as a gift); ook: getting + going along | Ik kreeg die papieren bus mee, samen met een gouden rammelaartje. | 36 |
+| **meekrijgen** → *kreeg … mee* | to be given (as a gift); ook: getting + going along | Ik kreeg die papieren bus mee, samen met een gouden rammelaartje. | 36 |
 | gouden | gold, golden | Het gouden horloge heb ik van mijn moeder gekregen. | 36 |
-| het rammelaartje (de rammelaar) | rattle | Samen met een gouden rammelaartje. | 36 |
+| **het rammelaartje** (de rammelaar) | rattle (a baby toy that makes a shaking, clattering sound; from the verb *rammelen* = to rattle) | Samen met een gouden rammelaartje. | 36 |
 | het horloge | watch | Het gouden horloge heb ik van mijn moeder gekregen en dat draag ik elke dag. | 36 |
 | dankbaar (voor) | grateful (for) | Daar ben ik haar heel dankbaar voor. | 36 |
 | hangen (aan) | hier: to hang (on); ook: to hang (onto something) | In de doos hangen foto's van mijn vriendin en onze kinderen. | 38 |
-| de schijf (mv. schijven) | disk | Ook staat er een harde schijf in. | 38 |
+| **de schijf** (mv. schijven) | disk | Ook staat er een harde schijf in. | 38 |
 | bewaren → *bewaar* | to keep | Daar bewaar ik al mijn muziek op. | 38 |
 | uitverkopen → *uitverkochte* | to sell out; sold out | Ik stond met mijn eigen show voor een uitverkochte zaal. | 38 |
 | de oogziekte | eye disease | Door een oogziekte heb ik maar 30 procent zicht. | 38 |
@@ -243,6 +243,7 @@ to choose / select — *Je mag een instrument uitkiezen. Wat zou je dan kiezen: 
 | Je merkt het, ik kan niet kiezen. | As you can see, I can't choose. | informeel | 22 |
 | Ik ben muzikaal. Ik speel gitaar. | I'm musical. I play the guitar. | informeel | 21 |
 | Dit leek me een mooi moment om … | This seemed like a good moment to … | – | – |
+| op zicht hebben — *Je mag die veertien dagen op zicht hebben.* | to have on approval (to try before you buy) | – | 39 |
 
 ---
 
