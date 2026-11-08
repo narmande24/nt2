@@ -110,6 +110,7 @@
 | de telefoon (mv. telefoons) | telephone | Als je praat over spullen, dan is dat mijn telefoon. | 22 |
 | de zelfreflectie | self-reflection | Zelfreflectie betekent nadenken over jezelf. | – |
 | vervangen | to replace | Ik vervang mijn oude telefoon door een nieuwe. | – |
+| **prachtig** | beautiful, wonderful | Ik vind fluisteren een prachtig woord. | 23 |
 
 ---
 
