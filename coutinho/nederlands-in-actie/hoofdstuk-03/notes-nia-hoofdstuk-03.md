@@ -266,3 +266,55 @@ Kijk naar de volgende vragen. De eerste vraag is in de **directe rede**, de twee
 **Vraag 2:** Wanneer gebruik je *dat* / *of* / een vraagwoord in de indirecte rede?
 
 **Dit heb je geleerd:** Een indirecte rede maak je met *dat*. Een indirecte vraag maak je met *of* of een vraagwoord. *Of* gebruik je bij ja/nee-vragen, een vraagwoord bij vraagwoordvragen. Na *dat* / *of* / een vraagwoord komt een bijzin.
+
+---
+
+### 3.9 Scheidbare werkwoorden (pag. 99–101)
+
+Kijk naar de volgende vragen en reacties (de scheidbare werkwoorden zijn vetgedrukt in het boek):
+
+1. *Hoe laat **staan** jullie **op**?* — *Normaal **staan** we om 7.30 uur **op**.*
+2. ***Kwamen** jullie elkaar vroeger regelmatig **tegen**?* — *Ja, vroeger **kwamen** we elkaar vaak in de bibliotheek **tegen**.*
+3. *Wanneer zijn jullie hier **aangekomen**?* — *We zijn hier gisteren **aangekomen**.*
+
+**Vraag 1:**
+- Infinitieven: *opstaan*, *tegenkomen*, *aankomen*.
+- Zinnen 1 en 2 staan in het **presens** en het **imperfectum**, zin 3 in het **perfectum**.
+- Presens + imperfectum: het werkwoord (persoonsvorm) staat op plaats 2, het **prefix** gaat naar het **einde van de zin**. Perfectum: het prefix komt **voor het participium** (*aan-gekomen*).
+
+**Scheidbaar werkwoord in een bijzin** (het werkwoord blijft in één woord, aan het einde):
+
+- *We weten niet wanneer we **terugkomen**.*
+- *Per zegt dat hij over een paar uur weer naar huis **terugvliegt**.*
+- *Ik weet niet of elke vraag één punt **oplevert**.*
+- *Toen ik dit **uitkoos**, realiseerde ik me dat het uit mijn geboorteland Haïti komt.*
+
+**Met *om te* + infinitief** (*te* komt tussen het prefix en de rest van het werkwoord; je schrijft drie woorden):
+
+- *Het is verboden om antwoorden op je telefoon **op te zoeken**.*
+
+**Met een modaal werkwoord** (het scheidbare werkwoord blijft heel, als infinitief aan het einde):
+
+- *Je mag een instrument **uitkiezen**.*
+
+**Vraag 2: schema**
+
+| | opzoeken – het telefoonnummer | aanraken – de hond | doorbrengen – de vakantie – in eigen land |
+|---|---|---|---|
+| presens | Ik zoek het telefoonnummer **op**. | Hij raakt de hond **aan**. | Wij brengen de vakantie in eigen land **door**. |
+| imperfectum | Ik zocht het telefoonnummer **op**. | Hij raakte de hond **aan**. | Wij brachten de vakantie in eigen land **door**. |
+| perfectum | Ik heb het telefoonnummer **opgezocht**. | Hij heeft de hond **aangeraakt**. | Wij hebben de vakantie in eigen land **doorgebracht**. |
+| in een bijzin | Ik denk dat ik het telefoonnummer **opzoek**. | Hij zegt dat hij de hond **aanraakt**. | Wij denken dat wij de vakantie in eigen land **doorbrengen**. |
+| met *om te* | Het is makkelijk om het telefoonnummer **op te zoeken**. | Het is leuk om de hond **aan te raken**. | Het is geen probleem om de vakantie in eigen land **door te brengen**. |
+| met een modaal werkwoord | Ik kan het telefoonnummer **opzoeken**. | Hij mag de hond **aanraken**. | Wij willen de vakantie in eigen land **doorbrengen**. |
+| met *hoeven* + *niet / geen* + *te* | Ik hoef het telefoonnummer niet **op te zoeken**. | Hij hoeft de hond niet **aan te raken**. | Wij hoeven de vakantie niet in eigen land **door te brengen**. |
+
+**Let op!** Na *hoeven* + *niet / geen* gebruik je *te*: het wordt dan *op te zoeken*, *aan te raken*, *door te brengen* (net als bij *om te*).
+
+**Dit heb je geleerd:** hoe je scheidbare werkwoorden in verschillende werkwoordstijden en constructies gebruikt:
+
+- **Presens + imperfectum:** je scheidt het prefix en het werkwoord; het prefix gaat naar het einde van de zin.
+- **Perfectum:** het prefix komt voor het participium.
+- **In een bijzin:** je scheidt het prefix en het werkwoord niet; het werkwoord gaat als één woord naar het einde van de zin.
+- **In zinnen met *te*:** *te* komt tussen het prefix en de rest van het werkwoord; je schrijft dan drie woorden.
+- **Na een modaal werkwoord:** je scheidt het prefix en de rest van het scheidbare werkwoord niet.
