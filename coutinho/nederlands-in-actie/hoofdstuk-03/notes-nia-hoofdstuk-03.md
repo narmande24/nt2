@@ -23,7 +23,7 @@
 | behoorlijk | quite, fairly | Ik heb ze behoorlijk vaak bezocht. | 76, 78 |
 | de huisgenoot (mv. huisgenoten) | housemate, roommate | Het zijn mijn beste vrienden en huisgenoten in Noorwegen. | 76, 78 |
 | omgekeerd → *omgekeerde* (omkeren) | reverse (to reverse) | Ik heb een soort omgekeerde heimwee. | 76, 78 |
-| de heimwee (naar) | homesickness | Ik heb een soort omgekeerde heimwee. | 76, 78 |
+| de heimwee → *heimwee hebben naar* | homesickness → to be homesick for | Ik heb een soort omgekeerde heimwee. | 76, 78 |
 | tegelijkertijd | at the same time | Normaal gaan we tegelijkertijd naar bed. | 76, 78 |
 | thuiskomen → *komen … thuis* | to come home | Daarna komen ze gelukkig weer thuis. | 76, 78 |
 | de omstandigheid (mv. omstandigheden) | circumstance | – | 77, 78 |
@@ -154,6 +154,20 @@
 | de demon | demon | – | 94 |
 | het monster | monster | – | 94 |
 | extravagant | extravagant | – | 94 |
+| de economie | economy, economics | – | 106 |
+| kopen → *kocht* | to buy | – | 108 |
+| meedoen → *doe … mee* | to take part, to join in | – | 108 |
+| meegaan → *ga … mee* | to go along, to come along | – | 108 |
+| optreden → *trad … op* | to perform; to take action; to occur | – | 107, 108 |
+| rijden → *reed* | to ride, to drive | – | 108 |
+| sluiten → *sloot* | to close | – | 108 |
+| vallen → *viel* | to fall | – | 108 |
+| zeggen → *zei* | to say | – | 108 |
+| zien → *zag* | to see | – | 108 |
+| zwemmen → *zwom* | to swim | – | 108 |
+| afhangen → *hing … af* | to depend (on) | – | 109 |
+| opzoeken → *zocht … op* | to look up | – | 109 |
+| verbieden → *verbood* | to forbid, to prohibit | – | 109 |
 
 ---
 
@@ -234,6 +248,19 @@ to spend (time) — *Waar breng jij je vakantie het liefst door?*
 | rijgen | to thread | rijg / rijgt | reeg / regen | heeft geregen |
 | langskomen | to come over, to pass by | kom … langs / komt … langs | kwam / kwamen … langs | is langsgekomen |
 | besluiten | to decide | besluit / besluit | besloot / besloten | heeft besloten |
+| kopen | to buy | koop / koopt | kocht / kochten | heeft gekocht |
+| meedoen | to take part, to join in | doe … mee / doet … mee | deed / deden … mee | heeft meegedaan |
+| meegaan | to go along | ga … mee / gaat … mee | ging / gingen … mee | is meegegaan |
+| optreden | to perform; to take action; to occur | treed … op / treedt … op | trad / traden … op | is opgetreden |
+| rijden | to ride, to drive | rijd / rijdt | reed / reden | is gereden |
+| sluiten | to close | sluit / sluit | sloot / sloten | heeft gesloten |
+| vallen | to fall | val / valt | viel / vielen | is gevallen |
+| zeggen | to say | zeg / zegt | zei / zeiden | heeft gezegd |
+| zien | to see | zie / ziet | zag / zagen | heeft gezien |
+| zwemmen | to swim | zwem / zwemt | zwom / zwommen | heeft / is gezwommen |
+| afhangen | to depend (on) | hang … af / hangt … af | hing / hingen … af | heeft afgehangen |
+| opzoeken | to look up | zoek … op / zoekt … op | zocht / zochten … op | heeft opgezocht |
+| verbieden | to forbid, to prohibit | verbied / verbiedt | verbood / verboden | heeft verboden |
 
 - **Let op:** scheidbare werkwoorden (zie 3.9): *Ik laat de hond uit* / *Hij heeft de hond uitgelaten*; *Het vindt in Utrecht plaats*; *Wij brengen de vakantie door*; *Een vriendin komt langs.*; *Zij keek uit naar Noroez.*
 - **Let op:** werkwoorden met een onbeklemtoonde eerste lettergreep (*verplichten*, *verzorgen*, *versieren*, *informeren*, *markeren*, *overwinnen*, *besluiten*, *bedenken*) krijgen geen *ge-* in het participium: *verplicht*, *verzorgd*, *geïnformeerd*, *overwonnen*, *besloten*. Uitzondering: *verven* → *geverfd* (hier is *ver-* geen prefix).
