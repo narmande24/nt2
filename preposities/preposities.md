@@ -21,3 +21,10 @@ Alle woorden met hun vaste prepositie, bij elkaar. Voeg nieuwe preposities per h
 | dankbaar | **voor** | grateful for | Daar ben ik haar heel dankbaar voor. |
 | hangen | **aan** | to hang on | In de doos hangen foto's. |
 | zicht … hebben | **op** | to have on approval | Je mag die veertien dagen op zicht hebben. |
+| afhangen | **van** | to depend on | Wat we gingen besluiten, hing af van het weer. |
+| uitkijken | **naar** | to look forward to | Ik heb wel twee jaar naar deze dag uitgekeken. |
+| terechtkunnen | **bij** | to be able to go to (for help) | Ze zei dat we bij haar terecht konden als we problemen hadden. |
+| binnenlopen | **bij** | to walk in on / drop in at | De deur stond open, daarom liep hij bij mij binnen. |
+| uitschelden | **voor** | to call someone (names) | Werd jij als kind vroeger uitgescholden voor …? |
+| voortkomen | **uit** | to originate from | Waar is die traditie uit voortgekomen? |
+| beginnen | **met** | to begin with | Het vuurwerk begon met een grote knal. |
