@@ -75,3 +75,68 @@
 | Ik denk het niet. | I don't think so. | informeel | – |
 | Hoe vind je het boek? | How do you find the book? / What do you think of the book? | informeel | – |
 | Wat vind je van Schiphol? | What do you think of Schiphol? | informeel | – |
+
+---
+
+## 6. Grammatica
+
+### 3.4 Indirecte rede (1): zinnen met *dat* (pag. 81)
+
+Kijk naar de volgende zinnen. De eerste zin is in de **directe rede**, de tweede zin is in de **indirecte rede**.
+
+| Directe rede | Indirecte rede |
+|--------------|----------------|
+| Per: *Nee, ik heb mijn vrienden behoorlijk vaak bezocht.* | Per vindt **dat** hij zijn vrienden behoorlijk vaak *bezocht heeft / heeft bezocht*. |
+| Per: *Ik ben gek op honden.* | Per zegt **dat** hij gek op honden *is / gek is op honden*. |
+
+**Vraag:** Wat is de structuur van de zinnen in de indirecte rede? Wat is de plaats van de werkwoorden?
+
+→ Na *dat* komt een **bijzin**: de persoonsvorm staat (meestal) aan het einde.
+
+**Meer voorbeelden:**
+
+- *Tristan vindt **dat** Nederlanders heel direct zijn.*
+- *Jo zegt **dat** ze altijd foto's van bloemen maakt.*
+- *Ik denk **dat** ik heel gezond eet.*
+- *SeaJin hoopt **dat** ze de wedstrijd met 3-0 winnen / winnen met 3-0.*
+- *We weten **dat** we morgen een test hebben.*
+
+**Let op!**
+
+- In veel talen mag je de indirecte zin ook zonder *dat* maken. In het Nederlands moet je *dat* gebruiken.
+- Voor *dat* komt **geen komma**.
+
+**Dit heb je geleerd:** Een indirecte rede maak je met *dat*. Na *dat* komt een bijzin.
+
+---
+
+### 3.6 Indirecte rede (2): vragen met *of* of een vraagwoord (pag. 86)
+
+Kijk naar de volgende vragen. De eerste vraag is in de **directe rede**, de tweede vraag is in de **indirecte rede**.
+
+**Vragen met *of*:**
+
+| Directe rede | Indirecte rede |
+|--------------|----------------|
+| Per: *Is er nog plaats voor mij op het bankje?* | Per vraagt **of** er nog plaats voor hem op het bankje *is*. |
+| Andre: *Was dit je eerste keer in Nederland?* | Andre vraagt **of** dit Pers eerste keer in Nederland *was*. |
+| Per: *Zijn jullie hier op vakantie geweest?* | Per vraagt **of** Andre en Mariana hier op vakantie *zijn geweest / geweest zijn*. |
+
+**Vragen met een vraagwoord:**
+
+| Directe rede | Indirecte rede |
+|--------------|----------------|
+| Per: *Wat vinden jullie dan zo leuk aan Nederland?* | Per vraagt **wat** ze dan zo leuk aan Nederland *vinden*. |
+| Andre: *Waarom wil je in Amsterdam wonen?* | Andre vraagt **waarom** hij in Amsterdam *wil wonen*. |
+
+**Meer voorbeelden:**
+
+- *Rajasi wil weten **of** ik sociale media gebruik.*
+- *Hij vraagt **of** ik Nederland een leuk land vind.*
+- *Ze overleggen **wanneer** ze weer naar Nederland gaan.*
+- *We weten niet **wat** we nu moeten doen.*
+
+**Vraag 1:** Wat kun je zeggen over de plaats van de werkwoorden?
+**Vraag 2:** Wanneer gebruik je *dat* / *of* / een vraagwoord in de indirecte rede?
+
+**Dit heb je geleerd:** Een indirecte rede maak je met *dat*. Een indirecte vraag maak je met *of* of een vraagwoord. *Of* gebruik je bij ja/nee-vragen, een vraagwoord bij vraagwoordvragen. Na *dat* / *of* / een vraagwoord komt een bijzin.
