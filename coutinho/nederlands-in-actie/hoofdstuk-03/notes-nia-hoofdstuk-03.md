@@ -59,6 +59,132 @@
 | weggaan → *ga … weg* | to leave, to go away | – | 80 |
 | indrukwekkend → *indrukwekkende* | impressive | – | 81 |
 | matig → *matige* | moderate, mediocre, poor | – | 81 |
+| de kerst | Christmas | – | 91 |
+| de gelegenheid* | opportunity | In de meeste Scandinavische landen is de langste dag een gelegenheid voor een nationaal feest. | 91 |
+| de midzomerdag | Midsummer's Day | – | 91 |
+| de bloemenkrans (mv. bloemenkransen) | flower garland | Op midzomerdag dragen mensen bloemenkransen op hun hoofd. | 91 |
+| de meiboom | maypole | Ze dansen om de meiboom terwijl ze kinderliedjes zingen. | 91 |
+| het kinderliedje (mv. kinderliedjes) | nursery rhyme | Ze dansen om de meiboom terwijl ze kinderliedjes zingen. | 91 |
+| samenkomen → *komen … samen* | to get together | Familie en vrienden komen samen voor een traditionele lunch of diner. | 91 |
+| knapperig | crunchy | – | 91 |
+| het brood | bread | – | 91 |
+| plaatselijk → *plaatselijke* | local | – | 91 |
+| pekelen → *gepekelde* | to pickle → pickled | – | 91 |
+| de borrel | hier: drink (usually alcoholic); ook: drinks event | – | 91 |
+| terechtkunnen → *konden … terecht** | hier: to stay at | – | 91 |
+| met z'n twintigen | with twenty of us | We hebben met z'n twintigen staan koken. | 91 |
+| de haven | harbour | Daarna zijn we naar de haven gegaan om te eten en te zwemmen. | 91 |
+| allerleukste | hier: the best thing; ook: the best, the nicest | Dat is het allerleukste aan de feestdag. | 91 |
+| het stadsstrand | city beach | – | 91 |
+| het strand | beach | – | 91 |
+| erg | bad, awful | Dat vind ik niet zo erg, het blijft Midsommar. | 91 |
+| het lichtjesfeest | festival of light | In India wordt Divali, het lichtjesfeest, op allerlei manieren gevierd. | 92 |
+| draaien om → *draaide … om* | to revolve around | Bij mij thuis draaide het tijdens Divali altijd om familie. | 92 |
+| de band | connection, bond | – | 92 |
+| plaatsvinden → *vindt … plaats* | to take place | – | 92 |
+| het goede | good | – | 92 |
+| het kwade | hier: evil; ook: bad | – | 92 |
+| overwinnen → *overwonnen* | hier: to triumph over; ook: to overcome | – | 92 |
+| afsteken → *steken … af* | to let off | – | 92 |
+| het vuurwerk | fireworks | – | 92 |
+| versieren | to decorate | – | 92 |
+| de kaars (mv. kaarsen) | candle | – | 92 |
+| de olielamp (mv. olielampen) | oil lamp | – | 92 |
+| de stoep | pavement | – | 92 |
+| de studentenvereniging | student association | Hier viert Sucharita Divali met de Indiase studentenvereniging in Groningen. | 92 |
+| het optreden* (mv. optredens) | performance, show | We hebben culturele optredens. | 92 |
+| markeren → *markeert* | to mark | Noroez markeert het begin van het nieuwe jaar in de Perzische zonnekalender. | 93 |
+| de zonnekalender | solar calendar | Noroez markeert het begin van het nieuwe jaar in de Perzische zonnekalender. | 93 |
+| de zon | sun | – | 93 |
+| de kalender | calendar | – | 93 |
+| de overvloed | abundance | – | 93 |
+| uitleggen → *legt … uit* | to explain | – | 93 |
+| het beginsel (mv. beginselen) | principle | – | 93 |
+| de kom | bowl | Op de tafel staat een kom met goudvissen. | 93 |
+| de goudvis (mv. goudvissen) | goldfish | Op de tafel staat een kom met goudvissen. | 93 |
+| verven | to paint | We verven eieren en zingen. | 94 |
+| het ei (mv. eieren) | egg | We verven eieren en zingen. | 94 |
+| het lied (mv. liederen) | song | – | 94 |
+| uitkijken naar → *keek … uit naar** | to look forward to | Soheila keek altijd erg uit naar Noroez. | 94 |
+| de ruimte | hier: space | Ik heb hier geen ruimte voor een sofreh. | 94 |
+| opzeggen → *opgezegd* | hier: to read out, to recite; ook: to cancel, to terminate | – | 94 |
+| het videogesprek | video call | – | 94 |
+| de video | video | – | 94 |
+| het gesprek | conversation | – | 94 |
+| het Nieuwjaar | New Year | Chūnjié, het Chinees Nieuwjaar, draait voornamelijk om de band tussen familieleden. | 95 |
+| voornamelijk | mainly | Chūnjié draait voornamelijk om de band tussen familieleden. | 95 |
+| het familielid (mv. familieleden) | relative | – | 95 |
+| de bedrijfskunde | business administration | – | 95 |
+| uitschelden → *scheldt … uit* | hier: to call names; ook: to scold, to tell off | Niemand scheldt je uit op de eerste dag van het nieuwe jaar. | 95 |
+| verplichten → *verplicht** | to oblige → obliged | Het is eigenlijk verplicht om je grootouders te bezoeken. | 95 |
+| de grootouder (mv. grootouders) | grandparent | Het is eigenlijk verplicht om je grootouders te bezoeken. | 95 |
+| de verplichting (mv. verplichtingen) | obligation, commitment | We zijn druk bezig met werk en andere verplichtingen. | 95 |
+| vrijmaken → *maken … vrij* | hier: to make time for; ook: to free (up) | Tijdens het begin van het nieuwe jaar maken we tijd vrij om met onze familie door te brengen. | 95 |
+| doorbrengen → *brengen … door** | to spend (time) | Tijdens het begin van het nieuwe jaar maken we tijd vrij om met onze familie door te brengen. | 95 |
+| uitgebreid | hier: elaborate; ook: extensive | Het feest begint met een uitgebreid diner met familie. | 95 |
+| opkrijgen → *krijgt … op* | hier: to finish food | Je krijgt het veel eten nooit in één keer op. | 95 |
+| ervan | of it/them | Een ervan komt voort uit een oude legende. | 95 |
+| voortkomen uit → *komt voor uit* | to originate from | Een ervan komt voort uit een oude legende. | 95 |
+| waarin | in which | Een oude legende waarin een demon ziekte en ongeluk bracht. | 95 |
+| het voorhoofd | forehead | – | 95 |
+| aanraken → *aanraakte* | to touch | – | 95 |
+| rijgen → *regen* | to thread | – | 95 |
+| de munt (mv. munten) | coin | – | 95 |
+| de draad (mv. draadjes) | thread, wire, string | – | 95 |
+| het hoofdkussen | pillow (bed) | – | 95 |
+| het kussen | cushion (sofa) | – | 95 |
+| de jongere (mv. jongeren) | young person (mv. young people) | – | 95 |
+| de envelop | envelope | Jongeren krijgen een rode envelop met geld. | 95 |
+| langskomen → *komt langs* | hier: to come over; ook: to pass by | Een vriendin komt langs en we hebben besloten samen te koken. | 95 |
+| besluiten → *besloten* | to decide | Een vriendin komt langs en we hebben besloten samen te koken. | 95 |
+| nationaal | national | In de meeste Scandinavische landen is de langste dag een gelegenheid voor een nationaal feest. | 91 |
+| traditioneel → *traditionele* | traditional | Familie en vrienden komen samen voor een traditionele lunch of diner. | 91 |
+| het diner | dinner | – | 91 |
+| de specialiteit (mv. specialiteiten) | speciality | – | 91 |
+| het alternatief | alternative | – | 91 |
+| de bachelorstudent | bachelor student | – | 92 |
+| het arrangement (mv. arrangementen) | arrangement | – | 92 |
+| cultureel → *culturele* | cultural | – | 92 |
+| de dj | DJ | – | 92 |
+| het ritueel → *rituele* | ritual | – | 93 |
+| de Koran | Quran | – | 93 |
+| de faculteit | faculty | – | 94 |
+| de traditie (mv. tradities) | tradition | – | 94 |
+| de legende | legend | – | 94 |
+| de demon | demon | – | 94 |
+| het monster | monster | – | 94 |
+| extravagant | extravagant | – | 94 |
+
+---
+
+## 2. Struikelwoorden
+
+### de gelegenheid (pag. 91)
+1. opportunity, chance — *Na de pauze hebben jullie gelegenheid om vragen te stellen.*
+2. occasion, place — *Ik zoek een café of restaurant aan het water. Weet jij een leuke gelegenheid?*
+
+### terechtkunnen, terechtkomen, terecht (pag. 91)
+1. terechtkunnen = to be able to go to (for information, help) — *Bij de Tourist Information kun je terecht als je informatie wilt krijgen over de stad.*
+2. terechtkomen = to end up, to arrive — *Weet je zeker dat dit de weg naar het centrum is? Ik weet niet of we daar nu wel terechtkomen.*
+3. terecht = justified, rightly — *Vind jij het goed dat Farid meer vakantiedagen heeft dan Joe? Vind jij dat terecht? Ik vind dat niet juist. Ik vind dat onterecht.*
+
+### (het) optreden (pag. 92)
+1. optreden = performance — *Ik houd van muziek. Ik ga volgende week naar een optreden van die band.*
+2. optreden = to perform, to act — *Ze treden met acht mensen op.*
+3. optreden = to take action / to occur — *De politie heeft streng opgetreden op de luchthaven. Na de operatie zijn er complicaties opgetreden.*
+
+### uitkijken (naar) (pag. 94)
+1. uitkijken naar = to look forward to — *Ik kijk uit naar de zomervakantie. Ik heb er heel veel zin in.*
+2. uitkijken naar = to look out for — *Wil je uitkijken naar mijn rugzak? Hij is groot en roze. Zie je hem ergens?*
+3. uitkijken = to watch out — *Kijk uit! Hier is het gevaarlijk.*
+
+### verplicht zijn, de verplichting, verplichten (pag. 96)
+- Als je naar het buitenland gaat, ben je verplicht een ID te hebben.
+- Feestdagen samen met familie vieren kan leuk zijn, maar voor sommigen is het een verplichting. Het is iets wat moet.
+- Je bent vrij om te kiezen, ik verplicht je tot niets.
+
+### doorbrengen (pag. 96)
+to spend (time) — *Waar breng jij je vakantie het liefst door?*
 
 ---
 
