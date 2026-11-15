@@ -83,6 +83,9 @@ def split_word(cell):
 # Example sentences in the notes that do not contain their preposition (or contain
 # it only inside another word) get a replacement sentence so the blank works.
 EXAMPLE_OVERRIDES = {
+    "balen": "Ik baal van het slechte weer.",
+    "gaan": "Het gaat om wat je ermee doet.",
+    "schuilen": "We schuilen voor de regen onder een boom.",
     "benieuwd": "Ik ben benieuwd naar je nieuwe baan.",
     "merken": "Ik merk niets van het lawaai.",
     "onderzoek doen": "Zij doet onderzoek naar kinderziektes.",
