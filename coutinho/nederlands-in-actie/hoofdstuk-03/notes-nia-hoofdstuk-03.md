@@ -6,6 +6,8 @@
 
 | Woord | Betekenis | Voorbeeldzin | Pag. |
 |-------|-----------|--------------|------|
+| het rijtjeshuis (mv. rijtjeshuizen) | terraced house, row house | – | 75 |
+| de bovenwoning (mv. bovenwoningen) | upstairs apartment (on an upper floor of a house) | – | 75 |
 | de toerist (mv. toeristen) | tourist | Ik wil niet altijd de toerist zijn, maar hier wonen. | 76, 77 |
 | de labrador (mv. labradors) | Labrador (dog) | Verderop liep een jongen met acht labradors. | 76, 77 |
 | de service | service | – | 76 |
@@ -38,7 +40,7 @@
 | afstandelijk | distant, aloof | We vinden dat de mensen hier afstandelijk zijn. | 77, 78 |
 | luid | loud | Die praten veel en luid. | 77, 78 |
 | de onbekende (mv. onbekenden) | stranger | Tijdens feestjes vallen onbekenden elkaar zomaar in de armen. | 77, 78 |
-| zomaar | spontaneously, just like that | Onbekenden vallen elkaar zomaar in de armen. | 77, 78 |
+| zomaar | spontaneously, just like that, for no particular reason | Onbekenden vallen elkaar zomaar in de armen. | 77, 78 |
 | de afstand | distance | Nederlanders bewaren een zekere afstand tot elkaar. | 77, 78 |
 | knuffelen (met) | to cuddle (with) | Terwijl wij altijd aan het knuffelen en kussen zijn. | 77, 78 |
 | kussen | to kiss | Terwijl wij altijd aan het knuffelen en kussen zijn. | 77, 79 |
@@ -53,3 +55,23 @@
 | gelijk hebben → *je hebt gelijk* | to be right | Je hebt gelijk. | 78, 79 |
 | snikheet | boiling hot | Dat lijkt vooral zo omdat het bij ons snikheet is. | 78, 79 |
 | de kroeg (mv. kroegen) | pub | Ja, zeker; de kroegen, de restaurants, de levensstijl … | 78, 79 |
+| mis hebben → *het mis hebben* | to be wrong, to be mistaken | – | 80 |
+| weggaan → *ga … weg* | to leave, to go away | – | 80 |
+| indrukwekkend → *indrukwekkende* | impressive | – | 81 |
+| matig → *matige* | moderate, mediocre, poor | – | 81 |
+
+---
+
+## 5. Nuttige uitdrukkingen (useful expressions)
+
+| Nederlands | Betekenis | Formeel / informeel | Pag. |
+|------------|-----------|---------------------|------|
+| Je hebt gelijk. (gelijk hebben) | You are right. (to be right) | informeel | 78 |
+| Je hebt het mis. (het mis hebben) | You are wrong. / You are mistaken. (to be wrong) | informeel | 80 |
+| Wat vinden jullie dan zo leuk aan Nederland? | What do you (plural) like so much about the Netherlands, then? | informeel | – |
+| Ik vind van niet. | I don't think so. (I'm of the opinion that it's not.) | informeel | – |
+| Ik vind van wel. | I do think so. (I'm of the opinion that it is.) | informeel | – |
+| Ik denk het wel. | I think so. | informeel | – |
+| Ik denk het niet. | I don't think so. | informeel | – |
+| Hoe vind je het boek? | How do you find the book? / What do you think of the book? | informeel | – |
+| Wat vind je van Schiphol? | What do you think of Schiphol? | informeel | – |
