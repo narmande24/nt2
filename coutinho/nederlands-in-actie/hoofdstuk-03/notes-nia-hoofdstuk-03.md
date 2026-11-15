@@ -267,6 +267,19 @@ to spend (time) — *Waar breng jij je vakantie het liefst door?*
 
 ---
 
+## 4. Prepositie (prepositions)
+| Woord | Prepositie | Betekenis | Voorbeeldzin | Pag. |
+|-------|------------|-----------|--------------|------|
+| afhangen | **van** | to depend on | Wat we gingen besluiten, hing af van het weer. | – |
+| uitkijken | **naar** | to look forward to | Ik heb wel twee jaar naar deze dag uitgekeken. | – |
+| terechtkunnen | **bij** | to be able to go to (for help) | Ze zei dat we bij haar terecht konden als we problemen hadden. | – |
+| binnenlopen | **bij** | to walk in on / drop in at | De deur stond open, daarom liep hij bij mij binnen. | – |
+| uitschelden | **voor** | to call someone (names) | Werd jij als kind vroeger uitgescholden voor …? | – |
+| voortkomen | **uit** | to originate from | Waar is die traditie uit voortgekomen? | – |
+| beginnen | **met** | to begin with | Het vuurwerk begon met een grote knal. | – |
+
+---
+
 ## 5. Nuttige uitdrukkingen (useful expressions)
 
 | Nederlands | Betekenis | Formeel / informeel | Pag. |
