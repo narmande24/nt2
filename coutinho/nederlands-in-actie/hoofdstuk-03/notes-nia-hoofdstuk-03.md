@@ -75,3 +75,47 @@
 | Ik denk het niet. | I don't think so. | informeel | – |
 | Hoe vind je het boek? | How do you find the book? / What do you think of the book? | informeel | – |
 | Wat vind je van Schiphol? | What do you think of Schiphol? | informeel | – |
+
+---
+
+## 6. Grammatica
+
+### Indirecte rede en indirecte vraag
+
+**Dit heb je geleerd:**
+
+- Een **indirecte rede** maak je met ***dat***.
+- Een **indirecte vraag** maak je met ***of*** of een **vraagwoord**.
+- ***Of*** gebruik je bij **ja/nee-vragen**, een **vraagwoord** bij **vraagwoordvragen**.
+- Na ***dat* / *of* / een vraagwoord** komt een **bijzin**.
+
+| Wanneer gebruik je … | In de indirecte rede / vraag |
+|----------------------|------------------------------|
+| *dat* | indirecte rede (bewering) |
+| *of* | indirecte ja/nee-vraag |
+| een vraagwoord (*wanneer, wat, …*) | indirecte vraagwoordvraag |
+
+**Let op!**
+
+- In veel talen mag je de indirecte zin ook zonder *dat* maken. In het Nederlands moet je *dat* gebruiken.
+- Voor *dat* komt **geen komma**.
+
+### Voorbeeldzinnen
+
+*Indirecte rede (dat):*
+
+- *Tristan vindt **dat** Nederlanders heel direct zijn.*
+- *Jo zegt **dat** ze altijd foto's van bloemen maakt.*
+- *Ik denk **dat** ik heel gezond eet.*
+- *SeaJin hoopt **dat** ze de wedstrijd met 3-0 winnen / winnen met 3-0.*
+- *We weten **dat** we morgen een test hebben.*
+
+*Indirecte vraag met of (ja/nee-vraag):*
+
+- *Rajasi wil weten **of** ik sociale media gebruik.*
+- *Hij vraagt **of** ik Nederland een leuk land vind.*
+
+*Indirecte vraag met een vraagwoord:*
+
+- *Ze overleggen **wanneer** ze weer naar Nederland gaan.*
+- *We weten niet **wat** we nu moeten doen.*
