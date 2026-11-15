@@ -188,6 +188,58 @@ to spend (time) — *Waar breng jij je vakantie het liefst door?*
 
 ---
 
+## 3. Werkwoordvervoegingen (verb conjugations)
+
+### Regelmatige werkwoorden
+
+| Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
+|------------|-----------|--------------------|-----------------------|-----------|
+| knuffelen (met) | to cuddle (with) | knuffel / knuffelt | knuffelde / knuffelden | heeft geknuffeld |
+| kussen | to kiss | kus / kust | kuste / kusten | heeft gekust |
+| informeren (naar) | to enquire (about) | informeer / informeert | informeerde / informeerden | heeft geïnformeerd |
+| verzorgen | to care for, to look after | verzorg / verzorgt | verzorgde / verzorgden | heeft verzorgd |
+| omkeren | to reverse | keer … om / keert … om | keerde / keerden … om | heeft omgekeerd |
+| pekelen | to pickle | pekel / pekelt | pekelde / pekelden | heeft gepekeld |
+| draaien (om) | to revolve around | draai / draait | draaide / draaiden | heeft gedraaid |
+| versieren | to decorate | versier / versiert | versierde / versierden | heeft versierd |
+| markeren | to mark | markeer / markeert | markeerde / markeerden | heeft gemarkeerd |
+| uitleggen | to explain | leg … uit / legt … uit | legde / legden … uit | heeft uitgelegd |
+| verven | to paint | verf / verft | verfde / verfden | heeft geverfd |
+| verplichten | to oblige | verplicht / verplicht | verplichtte / verplichtten | heeft verplicht |
+| vrijmaken | to make time for, to free (up) | maak … vrij / maakt … vrij | maakte / maakten … vrij | heeft vrijgemaakt |
+| aanraken | to touch | raak … aan / raakt … aan | raakte / raakten … aan | heeft aangeraakt |
+
+### Onregelmatige werkwoorden
+
+| Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
+|------------|-----------|--------------------|-----------------------|-----------|
+| zich afvragen | to wonder | vraag me af / vraagt zich af | vroeg / vroegen … zich af | heeft zich afgevraagd |
+| bedenken | to come up with, to think of | bedenk / bedenkt | bedacht / bedachten | heeft bedacht |
+| uitlaten | to walk (the dog); to let out | laat … uit / laat … uit | liet / lieten … uit | heeft uitgelaten |
+| thuiskomen | to come home | kom … thuis / komt … thuis | kwam / kwamen … thuis | is thuisgekomen |
+| gelijk hebben | to be right | heb gelijk / heeft gelijk | had / hadden gelijk | heeft gelijk gehad |
+| het mis hebben | to be wrong | heb het mis / heeft het mis | had / hadden het mis | heeft het mis gehad |
+| weggaan | to leave, to go away | ga … weg / gaat … weg | ging / gingen … weg | is weggegaan |
+| samenkomen | to get together | kom … samen / komt … samen | kwam / kwamen … samen | is samengekomen |
+| terechtkunnen | to be able to go to / to stay at | kan … terecht / kan … terecht | kon / konden … terecht | heeft terechtgekund |
+| plaatsvinden | to take place | vind … plaats / vindt … plaats | vond / vonden … plaats | heeft plaatsgevonden |
+| overwinnen | to triumph over, to overcome | overwin / overwint | overwon / overwonnen | heeft overwonnen |
+| afsteken | to let off (fireworks) | steek … af / steekt … af | stak / staken … af | heeft afgestoken |
+| uitkijken (naar) | to look forward to; to look out | kijk … uit / kijkt … uit | keek / keken … uit | heeft uitgekeken |
+| opzeggen | to read out, to recite; to cancel | zeg … op / zegt … op | zei / zeiden … op | heeft opgezegd |
+| uitschelden | to call names, to scold | scheld … uit / scheldt … uit | schold / scholden … uit | heeft uitgescholden |
+| doorbrengen | to spend (time) | breng … door / brengt … door | bracht / brachten … door | heeft doorgebracht |
+| opkrijgen | to finish (food) | krijg … op / krijgt … op | kreeg / kregen … op | heeft opgekregen |
+| voortkomen uit | to originate from | kom … voort / komt … voort | kwam / kwamen … voort | is voortgekomen |
+| rijgen | to thread | rijg / rijgt | reeg / regen | heeft geregen |
+| langskomen | to come over, to pass by | kom … langs / komt … langs | kwam / kwamen … langs | is langsgekomen |
+| besluiten | to decide | besluit / besluit | besloot / besloten | heeft besloten |
+
+- **Let op:** scheidbare werkwoorden (zie 3.9): *Ik laat de hond uit* / *Hij heeft de hond uitgelaten*; *Het vindt in Utrecht plaats*; *Wij brengen de vakantie door*; *Een vriendin komt langs.*; *Zij keek uit naar Noroez.*
+- **Let op:** werkwoorden met een onbeklemtoonde eerste lettergreep (*verplichten*, *verzorgen*, *versieren*, *informeren*, *markeren*, *overwinnen*, *besluiten*, *bedenken*) krijgen geen *ge-* in het participium: *verplicht*, *verzorgd*, *geïnformeerd*, *overwonnen*, *besloten*. Uitzondering: *verven* → *geverfd* (hier is *ver-* geen prefix).
+
+---
+
 ## 5. Nuttige uitdrukkingen (useful expressions)
 
 | Nederlands | Betekenis | Formeel / informeel | Pag. |
