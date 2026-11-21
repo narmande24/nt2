@@ -55,3 +55,14 @@ Layout, colours, fonts and key bindings live in the HTML/CSS/JS template inside
 `build_flashcards.py`. Edit the template there, rerun on each chapter you want updated, and
 verify with headless Chrome (`google-chrome --headless --dump-dom file://…`) if you need to
 check card text.
+
+
+## Memrise-style lesson
+
+```bash
+python3 .claude/skills/flashcards/build_lesson.py <path/to/notes-nia-hoofdstuk-NN.md>
+```
+
+Writes `lesson-nia-hNN.html` next to the notes (Woordenlijst only). Learn 5 new words at a time
+(intro, multiple choice both ways, de/het, listening if the browser has a Dutch voice, typing),
+spaced-repetition review with levels, and a 60 s speed round. Progress is kept in localStorage.
