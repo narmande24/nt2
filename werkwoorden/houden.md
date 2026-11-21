@@ -5,6 +5,7 @@ to hold, keep (*houden van* = to love)
 | Infinitief | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
 |------------|--------------------|-----------------------|-----------|
 | houden | houd / houdt | hield / hielden | heeft gehouden |
+| volhouden | houd … vol / houdt … vol | hield / hielden … vol | heeft volgehouden |
 
 ## Voorbeelden
 
@@ -23,3 +24,7 @@ to hold, keep (*houden van* = to love)
 5. *Ik heb één verzoek: houd het een beetje rustig.* (hoofdstuk 2, p. 51)
 6. *Houd het een beetje rustig.* = Keep it a bit quiet. / Keep it down a bit. (informeel, hoofdstuk 2, p. 51)
 7. *Ik doe deze oefening **om** mijn hart sterk **te** houden.* (hoofdstuk 2, om te + infinitief)
+
+### volhouden (to keep going, to persevere)
+
+8. *Freia eet sinds een maand alleen nog plantaardig. Ze vindt het niet makkelijk en mist kaas, maar ze wil het absoluut volhouden.* (hoofdstuk 4, p. 124)
