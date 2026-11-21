@@ -127,6 +127,11 @@
 | dik → *dikker* | fat | Je bent wel dikker geworden. | 123 |
 | afvallen* → *val … af* | to lose weight | Geen probleem, aan afvallen ga je niet beginnen. | 123 |
 | wachten (op) | to wait (for) | Je kunt niet wachten. | 123 |
+| knuffelen (met) → *knuffelde* | to cuddle | Ik mis onze kat heel erg. Als ik weer in Kroatië ben, ga ik eerst lang met mijn kat knuffelen. | 131 |
+| informeren (naar) → *geïnformeerd* | to enquire (about), to ask (about) | Ze vertelt altijd heel veel over haar leven, maar ze informeert nooit naar mijn leven. | 131 |
+| voortkomen (uit) → *kwam … voort* | to originate (from), to stem (from) | Ik vind het leuk dat onze feesten voortkomen uit dezelfde legende. | 131 |
+| heimwee hebben (naar) | to be homesick (for) | Toen ik net in Nederland was, had ik enorme heimwee naar mijn eigen land. | 131 |
+| het heimwee | homesickness | Toen ik net in Nederland was, had ik enorme heimwee naar mijn eigen land. | 131 |
 
 ---
 
@@ -246,9 +251,13 @@
 | eindigen | **met** | to end with | We zijn geëindigd met die week op Ameland. | 113 |
 | gaan | **om** | to be about, to matter | Het gaat erom wat je ermee doet. | 115 |
 | genieten | **van** | to enjoy | Maar eerst gaan we van dit boek genieten! | 115 |
+| heimwee hebben | **naar** | to be homesick for | Toen ik net in Nederland was, had ik enorme heimwee naar mijn eigen land. | 131 |
+| informeren | **naar** | to enquire about | Ze informeert nooit naar mijn leven. | 131 |
+| knuffelen | **met** | to cuddle (with) | Ik ga eerst lang met mijn kat knuffelen. | 131 |
 | ontbreken | **aan** | to lack, to miss | Het ontbreekt ons hier aan niets. | 113 |
 | schuilen | **voor** | to shelter from | – | 115 |
 | trekken | **door** | to travel through | Wij trokken voor de verandering door Nederland. | 113 |
+| voortkomen | **uit** | to originate from | Onze feesten komen voort uit dezelfde legende. | 131 |
 | wachten | **op** | to wait for | Ik heb twee uur op je gewacht! | 124 |
 
 ---
