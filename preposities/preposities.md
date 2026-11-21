@@ -28,3 +28,23 @@ Alle woorden met hun vaste prepositie, bij elkaar. Voeg nieuwe preposities per h
 | uitschelden | **voor** | to call someone (names) | Werd jij als kind vroeger uitgescholden voor …? |
 | voortkomen | **uit** | to originate from | Waar is die traditie uit voortgekomen? |
 | beginnen | **met** | to begin with | Het vuurwerk begon met een grote knal. |
+| zich aanmelden | **voor** | to sign up for | Een nieuw team heeft zich aangemeld voor vanavond. |
+| twijfelen | **aan / over / tussen** | to be unsure (about), to have doubts (about) | Ik twijfel tussen anderhalf en tweeëneenhalf. |
+| kauwen | **op** | to chew (on) | Dat is inclusief kauwen, toch? |
+| blijken | **uit** | (something) shows (that) | Uit onderzoek blijkt dat er negen gemeenschappelijke kenmerken zijn. |
+| zich houden | **aan** | to stick to | Daar houd ik me dan ook aan. |
+| smaken | **naar** | to taste (of) | Deze truffelmayonaise smaakt naar ui. |
+| baseren | **op** | to base on (*gebaseerd op* = based on) | Het eetpatroon van de bewoners van de Blue Zones is gebaseerd op plantaardig voedsel. |
+| behoren | **tot** | to belong to, to be part of | Het drinken van wijn behoort ook tot de specifieke kenmerken van de Blue Zone-bewoners. |
+| trouw zijn | **aan** | to be faithful to | Ze zijn trouw aan een levenspartner. |
+| balen | **van** | to be fed up with | Ik vind het heel vervelend, ik baal ervan. |
+| eindigen | **met** | to end with | We zijn geëindigd met die week op Ameland. |
+| gaan | **om** | to be about, to matter | Het gaat erom wat je ermee doet. |
+| genieten | **van** | to enjoy | Maar eerst gaan we van dit boek genieten! |
+| heimwee hebben | **naar** | to be homesick for | Toen ik net in Nederland was, had ik enorme heimwee naar mijn eigen land. |
+| informeren | **naar** | to enquire about | Ze informeert nooit naar mijn leven. |
+| knuffelen | **met** | to cuddle (with) | Ik ga eerst lang met mijn kat knuffelen. |
+| ontbreken | **aan** | to lack, to miss | Het ontbreekt ons hier aan niets. |
+| schuilen | **voor** | to shelter from | – |
+| trekken | **door** | to travel through | Wij trokken voor de verandering door Nederland. |
+| wachten | **op** | to wait for | Ik heb twee uur op je gewacht! |
