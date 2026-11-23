@@ -93,6 +93,18 @@ EXAMPLE_OVERRIDES = {
     "hangen": "De jas hangt aan de deur.",
     "twijfelen": "Ik twijfel aan mijn keuze.",
     "kauwen": "Hij kauwt op een stuk brood.",
+    "aansluiten": "Ik sluit me aan bij een sportclub.",
+    "afwijken": "Zijn mening wijkt af van mijn mening.",
+    "afzien": "Ik zie af van die dure reis.",
+    "boos zijn": "Ik ben boos op mijn collega.",
+    "geven": "Ik geef veel om mijn familie.",
+    "huilen": "Ze huilt om het verdrietige nieuws.",
+    "lenen": "Ik leen mijn fiets aan mijn buurman.",
+    "ontstaan": "Uit een klein idee ontstond een groot bedrijf.",
+    "opzien": "Ik zie op tegen het gesprek met mijn baas.",
+    "passen bij": "Deze baan past goed bij jou.",
+    "passen tussen": "Die tafel past niet tussen de kasten.",
+    "worstelen": "Ik worstel met mijn zelfvertrouwen.",
     "verwerken": "In zijn schilderijen verwerkt hij zijn herinneringen aan zijn eigen land.",
 }
 
