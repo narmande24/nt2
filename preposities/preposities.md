@@ -48,3 +48,19 @@ Alle woorden met hun vaste prepositie, bij elkaar. Voeg nieuwe preposities per h
 | schuilen | **voor** | to shelter from | – |
 | trekken | **door** | to travel through | Wij trokken voor de verandering door Nederland. |
 | wachten | **op** | to wait for | Ik heb twee uur op je gewacht! |
+| aankijken | **tegen** | to look at, to view | Ze kijken vreemd tegen zijn beroep aan. |
+| (zich) aanpassen | **aan** | to adapt to | Pas je aan de eisen van het bedrijf aan. |
+| aansluiten | **bij / op** | to join; to align with | De producten sluiten beter aan op de wensen van de klanten. |
+| afwijken | **van** | to deviate from | – |
+| afzien | **van** | to decide against | Ik heb ervan afgezien. |
+| boos zijn | **op / over** | to be angry with / about | – |
+| gelden | **voor** | to apply to | Hetzelfde geldt voor mannen. |
+| geven | **om** | to care about | – |
+| huilen | **om** | to cry about | – |
+| ingaan | **tegen** | to go against | Dit gaat in tegen het beeld. |
+| lenen | **aan / van** | to lend to / to borrow from | – |
+| ontstaan | **uit** | to arise from | – |
+| opzien | **tegen** | to dread | – |
+| passen bij | **bij** | to suit | – |
+| passen tussen | **tussen** | to fit between | – |
+| worstelen | **met** | to struggle with | – |
