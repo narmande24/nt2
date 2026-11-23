@@ -289,6 +289,17 @@
 
 ## 5. Nuttige uitdrukkingen (useful expressions)
 
+### Idioom (pag. 137)
+
+| Nederlands | Betekenis | Voorbeeldzin | Pag. |
+|------------|-----------|--------------|------|
+| iets in stand houden | zorgen dat iets blijft bestaan (to maintain) | Daarnaast wordt ons stereotiepe beeld van beroepen in stand gehouden. | 137 |
+| in elkaar zitten | zijn (hier: in elkaar zijn gezet, to be structured) | – | 137 |
+| iets in zijn handen drukken | iets geven (to press something into someone's hands) | – | 137 |
+| Het maakt (echt) niet uit of … | Het maakt (helemaal) geen verschil of … (it doesn't matter whether …) | Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent. | 137 |
+| de knoop doorhakken | een keuze maken (to make a decision) | Na de vakantie hakken veel mensen de knoop door. | 137 |
+| iets (helemaal) zien zitten | iets leuk vinden (to like the idea of something) | – | 137 |
+
 ### Reageren op een idee / plan / voorstel (pag. 148)
 
 **Positieve reactie**
