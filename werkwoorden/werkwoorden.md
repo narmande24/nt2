@@ -6,33 +6,49 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 
 | Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
 |------------|-----------|--------------------|-----------------------|-----------|
+| aanleren | to teach | leer … aan / leert … aan | leerde / leerden … aan | heeft aangeleerd |
 | zich aanmelden (voor) | to sign up (for) | meld me aan / meldt zich aan | meldde / meldden … zich aan | heeft zich aangemeld |
+| aanpassen (zich) | to adapt | pas … aan / past … aan | paste / pasten … aan | heeft (zich) aangepast |
 | aanraken | to touch | raak … aan / raakt … aan | raakte / raakten … aan | heeft aangeraakt |
+| accepteren | to accept | accepteer / accepteert | accepteerde / accepteerden | heeft geaccepteerd |
 | adopteren | to adopt | adopteer / adopteert | adopteerde / adopteerden | heeft geadopteerd |
 | afkoelen | to cool down | koel … af / koelt … af | koelde / koelden … af | is afgekoeld |
 | balen (van) | to be fed up (with) | baal / baalt | baalde / baalden | heeft gebaald |
+| begeleiden | to supervise, to coach | begeleid / begeleidt | begeleidde / begeleidden | heeft begeleid |
+| behandelen | to treat | behandel / behandelt | behandelde / behandelden | heeft behandeld |
 | beleven | to experience | beleef / beleeft | beleefde / beleefden | heeft beleefd |
 | beschilderen | to paint (decorate) | beschilder / beschildert | beschilderde / beschilderden | heeft beschilderd |
 | bereiken | to achieve | bereik / bereikt | bereikte / bereikten | heeft bereikt |
+| bevestigen | to confirm | bevestig / bevestigt | bevestigde / bevestigden | heeft bevestigd |
 | bevorderen | to promote, to encourage | bevorder / bevordert | bevorderde / bevorderden | heeft bevorderd |
 | bewaren | to keep | bewaar / bewaart | bewaarde / bewaarden | heeft bewaard |
 | bloeien | to bloom | bloei / bloeit | bloeide / bloeiden | heeft gebloeid |
 | boeken | to book | boek / boekt | boekte / boekten | heeft geboekt |
+| delegeren | to delegate | delegeer / delegeert | delegeerde / delegeerden | heeft gedelegeerd |
+| domineren | to dominate | domineer / domineert | domineerde / domineerden | heeft gedomineerd |
 | doorwerken | to keep working | werk … door / werkt … door | werkte / werkten … door | heeft doorgewerkt |
 | draaien (om) | to revolve around | draai / draait | draaide / draaiden | heeft gedraaid |
+| durven | to dare | durf / durft | durfde / durfden | heeft gedurfd |
+| duwen | to push | duw / duwt | duwde / duwden | heeft geduwd |
 | eindigen (met) | to end (with) | eindig / eindigt | eindigde / eindigden | heeft geëindigd |
+| eisen | to demand | eis / eist | eiste / eisten | heeft geëist |
 | fluisteren | to whisper | fluister / fluistert | fluisterde / fluisterden | heeft gefluisterd |
+| frustreren | to frustrate | frustreer / frustreert | frustreerde / frustreerden | heeft gefrustreerd |
 | gillen | to scream, to yell | gil / gilt | gilde / gilden | heeft gegild |
 | googelen | to google | googel / googelt | googelde / googelden | heeft gegoogeld |
+| groeien | to grow | groei / groeit | groeide / groeiden | is gegroeid |
+| huilen (om) | to cry | huil / huilt | huilde / huilden | heeft gehuild |
 | informeren (naar) | to enquire (about) | informeer / informeert | informeerde / informeerden | heeft geïnformeerd |
 | kamperen | to camp (out) | kamper / kampeert | kampeerde / kampeerden | heeft gekampeerd |
 | kauwen (op) | to chew (on) | kauw / kauwt | kauwde / kauwden | heeft gekauwd |
 | kleuren | to colour | kleur / kleurt | kleurde / kleurden | heeft gekleurd |
 | knuffelen (met) | to cuddle (with) | knuffel / knuffelt | knuffelde / knuffelden | heeft geknuffeld |
 | kussen | to kiss | kus / kust | kuste / kusten | heeft gekust |
+| lenen (aan / van) | to lend / to borrow | leen / leent | leende / leenden | heeft geleend |
 | markeren | to mark | markeer / markeert | markeerde / markeerden | heeft gemarkeerd |
 | meemaken | to experience | maak / maakt … mee | maakte / maakten … mee | heeft meegemaakt |
 | merken | to notice | merk / merkt | merkte / merkten | heeft gemerkt |
+| motiveren | to motivate | motiveer / motiveert | motiveerde / motiveerden | heeft gemotiveerd |
 | nastreven | to pursue, to strive for | streef … na / streeft … na | streefde / streefden … na | heeft nagestreefd |
 | noemen | to name | noem / noemt | noemde / noemden | heeft genoemd |
 | omkeren | to reverse | keer … om / keert … om | keerde / keerden … om | heeft omgekeerd |
@@ -42,22 +58,30 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | opleveren | to count for, to produce | lever … op / levert … op | leverde / leverden … op | heeft opgeleverd |
 | organiseren | to organise | organiseer / organiseert | organiseerde / organiseerden | heeft georganiseerd |
 | pakken | to grab | pak / pakt | pakte / pakten | heeft gepakt |
+| passen (bij) | to fit, to suit | pas / past | paste / pasten | heeft gepast |
 | pekelen | to pickle | pekel / pekelt | pekelde / pekelden | heeft gepekeld |
+| plakken (op) | to stick (on) | plak / plakt | plakte / plakten | heeft geplakt |
 | publiceren | to publish | publiceer / publiceert | publiceerde / publiceerden | heeft gepubliceerd |
 | zich realiseren | to realise | realiseer me / realiseert zich | realiseerde / realiseerden … zich | heeft zich gerealiseerd |
 | schelen | to save; to differ | scheel / scheelt | scheelde / scheelden | heeft gescheeld |
 | schilderen | to paint | schilder / schildert | schilderde / schilderden | heeft geschilderd |
 | schreeuwen | to shout | schreeuw / schreeuwt | schreeuwde / schreeuwden | heeft geschreeuwd |
 | smaken (naar) | to taste (of) | smaak / smaakt | smaakte / smaakten | heeft gesmaakt |
+| stellen | to claim; to ask (a question) | stel / stelt | stelde / stelden | heeft gesteld |
 | stimuleren | to encourage | stimuleer / stimuleert | stimuleerde / stimuleerden | heeft gestimuleerd |
+| storen | to disturb | stoor / stoort | stoorde / stoorden | heeft gestoord |
 | stromen | to flow, to stream | stroom / stroomt | stroomde / stroomden | heeft / is gestroomd |
 | sturen (naar / aan) | to send (to) | stuur / stuurt | stuurde / stuurden | heeft gestuurd |
 | tekenen | to draw | teken / tekent | tekende / tekenden | heeft getekend |
 | terugschakelen | to shift down (a gear), to slow down | schakel … terug / schakelt … terug | schakelde / schakelden … terug | heeft teruggeschakeld |
 | toepassen | to apply, to put into practice | pas … toe / past … toe | paste / pasten … toe | heeft toegepast |
+| tutten | to primp, to fuss | tut / tut | tutte / tutten | heeft getut |
 | twijfelen (aan / over / tussen) | to be unsure (about) | twijfel / twijfelt | twijfelde / twijfelden | heeft getwijfeld |
 | uitleggen | to explain | leg … uit / legt … uit | legde / legden … uit | heeft uitgelegd |
+| uitmaken | to matter | maak … uit / maakt … uit | maakte / maakten … uit | heeft uitgemaakt |
+| uitoefenen | to practise | oefen … uit / oefent … uit | oefende / oefenden … uit | heeft uitgeoefend |
 | verbranden | to burn | verbrand / verbrandt | verbrandde / verbrandden | heeft verbrand |
+| verdienen | to earn, to deserve | verdien / verdient | verdiende / verdienden | heeft verdiend |
 | vernoemen | to name (after) | vernoem / vernoemt | vernoemde / vernoemden | heeft vernoemd |
 | verplichten | to oblige | verplicht / verplicht | verplichtte / verplichtten | heeft verplicht |
 | verrassen | to surprise | verras / verrast | verraste / verrasten | heeft verrast |
@@ -74,6 +98,7 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | waarderen | to appreciate | waardeer / waardeert | waardeerde / waardeerden | heeft gewaardeerd |
 | wachten (op) | to wait (for) | wacht / wacht | wachtte / wachtten | heeft gewacht |
 | wildkamperen | wild camping | kamper … wild / kampeert … wild | kampeerde / kampeerden … wild | heeft wildgekampeerd |
+| worstelen (met) | to struggle (with) | worstel / worstelt | worstelde / worstelden | heeft geworsteld |
 | zorgen (voor) | to take care of | zorg / zorgt | zorgde / zorgden | heeft gezorgd |
 
 ## Onregelmatige werkwoorden
@@ -81,12 +106,18 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | Infinitief | Betekenis | Presens (ik / hij) | Imperfectum (sg / pl) | Perfectum |
 |------------|-----------|--------------------|-----------------------|-----------|
 | aanbreken | to come, to arrive | breek … aan / breekt … aan | brak / braken … aan | is aangebroken |
+| aankijken (tegen) | to look at; to view | kijk … aan / kijkt … aan | keek / keken … aan | heeft aangekeken |
+| aansluiten (bij / op) | to join; to align with | sluit … aan / sluit … aan | sloot / sloten … aan | heeft aangesloten |
 | aanspreken | to appeal; to address | spreek … aan / spreekt … aan | sprak / spraken … aan | heeft aangesproken |
+| aantrekken | to put on, to attract | trek … aan / trekt … aan | trok / trokken … aan | heeft aangetrokken |
 | afhangen (van) | to depend on | hang … af / hangt … af | hing / hingen … af | heeft afgehangen |
+| afschrikken | to deter, to be put off | schrik … af / schrikt … af | schrok / schrokken … af | is afgeschrokken |
 | afspreken | to arrange, to agree | spreek … af / spreekt … af | sprak / spraken … af | heeft afgesproken |
 | afsteken | to let off (fireworks) | steek … af / steekt … af | stak / staken … af | heeft afgestoken |
 | afvallen | to lose weight; to be eliminated | val … af / valt … af | viel / vielen … af | is afgevallen |
 | zich afvragen | to wonder | vraag me af / vraagt zich af | vroeg / vroegen … zich af | heeft zich afgevraagd |
+| afwijken (van) | to deviate (from) | wijk … af / wijkt … af | week / weken … af | is afgeweken |
+| afzien (van) | to decide against | zie … af / ziet … af | zag / zagen … af | heeft afgezien |
 | bedenken | to come up with, to think of | bedenk / bedenkt | bedacht / bedachten | heeft bedacht |
 | beginnen | to begin | begin / begint | begon / begonnen | is begonnen |
 | besluiten | to decide | besluit / besluit | besloot / besloten | heeft besloten |
@@ -104,8 +135,11 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | ervaren | to experience | ervaar / ervaart | ervoer / ervoeren | heeft ervaren |
 | eten | to eat | eet / eet | at / aten | heeft gegeten |
 | flauwvallen | to faint | val … flauw / valt … flauw | viel / vielen … flauw | is flauwgevallen |
+| gelden (voor) | to apply (to) | geld / geldt | gold / golden | heeft gegolden |
 | gelijk hebben | to be right | heb gelijk / heeft gelijk | had / hadden gelijk | heeft gelijk gehad |
 | genieten (van) | to enjoy | geniet / geniet | genoot / genoten | heeft genoten |
+| geven (om) | to give; to care about | geef / geeft | gaf / gaven | heeft gegeven |
+| ingaan (tegen) | to go against | ga … in / gaat … in | ging / gingen … in | is ingegaan |
 | komen | to come | kom / komt | kwam / kwamen | is gekomen |
 | kopen | to buy | koop / koopt | kocht / kochten | heeft gekocht |
 | kruipen | to crawl | kruip / kruipt | kroop / kropen | heeft / is gekropen |
@@ -116,6 +150,8 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | meegaan | to go along | ga … mee / gaat … mee | ging / gingen … mee | is meegegaan |
 | meevallen | to be better than expected | val … mee / valt … mee | viel / vielen … mee | is meegevallen |
 | het mis hebben | to be wrong | heb het mis / heeft het mis | had / hadden het mis | heeft het mis gehad |
+| nemen | to take | neem / neemt | nam / namen | heeft genomen |
+| ondernemen | to undertake | onderneem / onderneemt | ondernam / ondernamen | heeft ondernomen |
 | onderzoek doen (naar) | to do research (on) | doe / doet … onderzoek | deed / deden … onderzoek | heeft … onderzoek gedaan |
 | dragen | to wear, carry | draag / draagt | droeg / droegen | heeft gedragen |
 | gaan | to go | ga / gaat | ging / gingen | is gegaan |
@@ -125,15 +161,18 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | houden | to hold, keep (*houden van* = to love) | houd / houdt | hield / hielden | heeft gehouden |
 | kiezen | to choose | kies / kiest | koos / kozen | heeft gekozen |
 | ontbreken (aan) | to miss, to lack | ontbreek / ontbreekt | ontbrak / ontbraken | heeft ontbroken |
+| ontstaan (uit) | to arise (from) | ontsta / ontstaat | ontstond / ontstonden | is ontstaan |
 | opkrijgen | to finish (food) | krijg … op / krijgt … op | kreeg / kregen … op | heeft opgekregen |
 | optreden | to perform; to take action; to occur | treed … op / treedt … op | trad / traden … op | is opgetreden |
 | opvangen | to deal with; to catch | vang … op / vangt … op | ving / vingen … op | heeft opgevangen |
 | opzeggen | to read out, to recite; to cancel | zeg … op / zegt … op | zei / zeiden … op | heeft opgezegd |
+| opzien (tegen) | to dread | zie … op / ziet … op | zag / zagen … op | heeft opgezien |
 | opzoeken | to look up | zoek … op / zoekt … op | zocht / zochten … op | heeft opgezocht |
 | overwinnen | to triumph over, to overcome | overwin / overwint | overwon / overwonnen | heeft overwonnen |
 | plaatsvinden | to take place | vind … plaats / vindt … plaats | vond / vonden … plaats | heeft plaatsgevonden |
 | rijden | to ride, to drive | rijd / rijdt | reed / reden | is gereden |
 | rijgen | to thread | rijg / rijgt | reeg / regen | heeft geregen |
+| rondlopen | to walk around | loop … rond / loopt … rond | liep / liepen … rond | (is) rondgelopen |
 | ruiken | to smell | ruik / ruikt | rook / roken | heeft geroken |
 | samenkomen | to get together | kom … samen / komt … samen | kwam / kwamen … samen | is samengekomen |
 | schrijven | to write | schrijf / schrijft | schreef / schreven | heeft geschreven |
@@ -162,6 +201,7 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | uitverkopen | to sell out | verkoop / verkoopt … uit | verkocht / verkochten … uit | heeft uitverkocht |
 | vallen | to fall | val / valt | viel / vielen | is gevallen |
 | varen | to sail | vaar / vaart | voer / voeren | heeft / is gevaren |
+| vastzitten | to be stuck | zit … vast / zit … vast | zat / zaten … vast | heeft vastgezeten |
 | verbieden | to forbid | verbied / verbiedt | verbood / verboden | heeft verboden |
 | vergeten | to forget | vergeet / vergeet | vergat / vergaten | heeft vergeten |
 | vervangen | to replace | vervang / vervangt | verving / vervingen | heeft vervangen |
@@ -174,6 +214,7 @@ Alle werkwoorden uit de hoofdstukken, bij elkaar. Voeg nieuwe werkwoorden per ho
 | waaien | to blow (wind) | waai / waait | waaide of woei / waaiden of woeien | heeft / is gewaaid |
 | wegen | to weigh | weeg / weegt | woog / wogen | heeft gewogen |
 | weggaan | to leave, to go away | ga … weg / gaat … weg | ging / gingen … weg | is weggegaan |
+| wegjagen | to chase away | jaag … weg / jaagt … weg | joeg / joegen … weg | heeft weggejaagd |
 | weten | to know | weet / weet | wist / wisten | heeft geweten |
 | willen | to want | wil / wil | wilde (wou) / wilden | heeft gewild |
 | winnen | to win | win / wint | won / wonnen | heeft gewonnen |

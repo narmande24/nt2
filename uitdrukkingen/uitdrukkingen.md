@@ -38,3 +38,24 @@ Alle nuttige uitdrukkingen (useful phrases), bij elkaar. Voeg nieuwe uitdrukking
 | Ik denk het niet. | I don't think so. | informeel |
 | Hoe vind je het boek? | How do you find the book? / What do you think of the book? | informeel |
 | Wat vind je van Schiphol? | What do you think of Schiphol? | informeel |
+| iets in stand houden — *Daarnaast wordt ons stereotiepe beeld van beroepen in stand gehouden.* | to maintain; zorgen dat iets blijft bestaan | – |
+| in elkaar zitten | to be structured; zijn (in elkaar zijn gezet) | – |
+| iets in zijn handen drukken | to press something into someone's hands; iets geven | – |
+| Het maakt (echt) niet uit of … — *Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent.* | It doesn't matter whether …; het maakt geen verschil of … | – |
+| de knoop doorhakken | to make a decision; een keuze maken | – |
+| iets (helemaal) zien zitten | to like the idea of something; iets leuk vinden | – |
+| ergens tegenaan zitten | to be close to getting something; iets bijna krijgen | – |
+| Heel interessant. | positive reaction (++) | – |
+| Daar word ik helemaal enthousiast van. | positive reaction (++) | – |
+| Goh, wat een goed idee / plan / voorstel. | positive reaction (++) | – |
+| Daar kunnen we zeker wat mee. | positive reaction (+) | – |
+| Klinkt interessant. | positive reaction (+) | – |
+| Zou kunnen. | evasive reaction: there are interesting elements, we can think about it | – |
+| We zouden het kunnen bekijken. | evasive reaction: we could look into it | – |
+| Hm, ik weet niet of dat wel zo'n goed idee is. | negative reaction (−/+) | – |
+| Op zich een goed idee / plan / voorstel, maar het is niet toepasbaar in onze situatie. | negative reaction (−/+): good in itself, but not applicable here | – |
+| Dat vind ik geen goed idee / plan / voorstel. | negative reaction (−) | – |
+| Dat zie ik niet zitten. | negative reaction (−) | informeel |
+| Ik vind het (helemaal) niks. | negative reaction (−−) | informeel |
+| Wat een waardeloos idee / plan / voorstel. | negative reaction (−−) | informeel |
+| Ik vind het drie keer niks. | negative reaction (−−−) | informeel |

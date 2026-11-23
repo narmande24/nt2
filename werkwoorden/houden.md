@@ -6,6 +6,7 @@ to hold, keep (*houden van* = to love)
 |------------|--------------------|-----------------------|-----------|
 | houden | houd / houdt | hield / hielden | heeft gehouden |
 | volhouden | houd … vol / houdt … vol | hield / hielden … vol | heeft volgehouden |
+| in stand houden | houd … in stand / houdt … in stand | hield / hielden … in stand | heeft in stand gehouden |
 
 ## Voorbeelden
 
@@ -28,3 +29,7 @@ to hold, keep (*houden van* = to love)
 ### volhouden (to keep going, to persevere)
 
 8. *Freia eet sinds een maand alleen nog plantaardig. Ze vindt het niet makkelijk en mist kaas, maar ze wil het absoluut volhouden.* (hoofdstuk 4, p. 124)
+
+### in stand houden (to maintain, to keep going)
+
+9. *Daarnaast wordt ons stereotiepe beeld van beroepen in stand gehouden door de voorbeelden die we zien.* (hoofdstuk 5, tekst 2)
