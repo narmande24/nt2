@@ -281,8 +281,8 @@
 | lenen | **aan / van** | to lend to / to borrow from | – | 145 |
 | ontstaan | **uit** | to arise from | – | 142 |
 | opzien | **tegen** | to dread | – | 145 |
-| passen | **bij** | to suit | – | 143 |
-| passen | **tussen** | to fit between | – | 140 |
+| passen bij | **bij** | to suit | – | 143 |
+| passen tussen | **tussen** | to fit between | – | 140 |
 | worstelen | **met** | to struggle with | – | 139 |
 
 ---
