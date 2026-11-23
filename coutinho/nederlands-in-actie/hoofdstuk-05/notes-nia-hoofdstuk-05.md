@@ -12,7 +12,7 @@
 | Het maakt (echt) niet uit of … | It doesn't (really) matter whether … | Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent. | 137 |
 | de knoop doorhakken | to make a decision, to cut the knot | Na de vakantie hakken veel mensen de knoop door. | 137 |
 | iets (helemaal) zien zitten | to (really) like the idea of something | – | 137 |
-| ergens tegenaan zitten | to be up against something, to be stuck with something | – | 138 |
+| ergens tegenaan zitten | iets bijna krijgen (to be close to getting something) | – | 138 |
 | goed / slecht in je vel zitten | to feel good / bad (about yourself) | – | 138 |
 | de mannenbaan (mv. mannenbanen) | man's job | – | 138 |
 | de bouw | construction | – | 138 |
@@ -299,6 +299,7 @@
 | Het maakt (echt) niet uit of … | Het maakt (helemaal) geen verschil of … (it doesn't matter whether …) | Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent. | 137 |
 | de knoop doorhakken | een keuze maken (to make a decision) | Na de vakantie hakken veel mensen de knoop door. | 137 |
 | iets (helemaal) zien zitten | iets leuk vinden (to like the idea of something) | – | 137 |
+| ergens tegenaan zitten | iets bijna krijgen (to be close to getting something) | – | 138 |
 
 ### Reageren op een idee / plan / voorstel (pag. 148)
 
