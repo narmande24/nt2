@@ -289,46 +289,31 @@
 
 ## 5. Nuttige uitdrukkingen (useful expressions)
 
-### Idioom (pag. 137)
+Idioom (pag. 137–138) en reageren op een idee / plan / voorstel (pag. 148).
 
-| Nederlands | Betekenis | Voorbeeldzin | Pag. |
-|------------|-----------|--------------|------|
-| iets in stand houden | zorgen dat iets blijft bestaan (to maintain) | Daarnaast wordt ons stereotiepe beeld van beroepen in stand gehouden. | 137 |
-| in elkaar zitten | zijn (hier: in elkaar zijn gezet, to be structured) | – | 137 |
-| iets in zijn handen drukken | iets geven (to press something into someone's hands) | – | 137 |
-| Het maakt (echt) niet uit of … | Het maakt (helemaal) geen verschil of … (it doesn't matter whether …) | Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent. | 137 |
-| de knoop doorhakken | een keuze maken (to make a decision) | Na de vakantie hakken veel mensen de knoop door. | 137 |
-| iets (helemaal) zien zitten | iets leuk vinden (to like the idea of something) | – | 137 |
-| ergens tegenaan zitten | iets bijna krijgen (to be close to getting something) | – | 138 |
-
-### Reageren op een idee / plan / voorstel (pag. 148)
-
-**Positieve reactie**
-
-| Sterkte | Uitdrukking |
-|---------|-------------|
-| ++ | Heel interessant. |
-| ++ | Daar word ik helemaal enthousiast van. |
-| ++ | Goh, wat een goed idee / plan / voorstel. |
-| + | Daar kunnen we zeker wat mee. |
-| + | Klinkt interessant. |
-
-**Ontwijkende reactie** (er zitten interessante elementen in, daar kunnen we nog over nadenken)
-
-- Zou kunnen.
-- We zouden het kunnen bekijken.
-
-**Afwijzende reactie**
-
-| Sterkte | Uitdrukking |
-|---------|-------------|
-| −/+ | Hm, ik weet niet of dat wel zo'n goed idee is. |
-| −/+ | Op zich een goed idee / plan / voorstel, maar het is niet toepasbaar in onze situatie. |
-| − | Dat vind ik geen goed idee / plan / voorstel. |
-| − | Dat zie ik niet zitten. |
-| −− | Ik vind het (helemaal) niks. |
-| −− | Wat een waardeloos idee / plan / voorstel. |
-| −−− | Ik vind het drie keer niks. |
+| Nederlands | Betekenis | Formeel / informeel | Pag. |
+|------------|-----------|---------------------|------|
+| iets in stand houden — *Daarnaast wordt ons stereotiepe beeld van beroepen in stand gehouden.* | to maintain; zorgen dat iets blijft bestaan | – | 137 |
+| in elkaar zitten | to be structured; zijn (in elkaar zijn gezet) | – | 137 |
+| iets in zijn handen drukken | to press something into someone's hands; iets geven | – | 137 |
+| Het maakt (echt) niet uit of … — *Het maakt voor mijn vak echt niet uit of je een man of een vrouw bent.* | It doesn't matter whether …; het maakt geen verschil of … | – | 137 |
+| de knoop doorhakken | to make a decision; een keuze maken | – | 137 |
+| iets (helemaal) zien zitten | to like the idea of something; iets leuk vinden | – | 137 |
+| ergens tegenaan zitten | to be close to getting something; iets bijna krijgen | – | 138 |
+| Heel interessant. | positive reaction (++) | – | 148 |
+| Daar word ik helemaal enthousiast van. | positive reaction (++) | – | 148 |
+| Goh, wat een goed idee / plan / voorstel. | positive reaction (++) | – | 148 |
+| Daar kunnen we zeker wat mee. | positive reaction (+) | – | 148 |
+| Klinkt interessant. | positive reaction (+) | – | 148 |
+| Zou kunnen. | evasive reaction: there are interesting elements, we can think about it | – | 148 |
+| We zouden het kunnen bekijken. | evasive reaction: we could look into it | – | 148 |
+| Hm, ik weet niet of dat wel zo'n goed idee is. | negative reaction (−/+) | – | 148 |
+| Op zich een goed idee / plan / voorstel, maar het is niet toepasbaar in onze situatie. | negative reaction (−/+): good in itself, but not applicable here | – | 148 |
+| Dat vind ik geen goed idee / plan / voorstel. | negative reaction (−) | – | 148 |
+| Dat zie ik niet zitten. | negative reaction (−) | informeel | 148 |
+| Ik vind het (helemaal) niks. | negative reaction (−−) | informeel | 148 |
+| Wat een waardeloos idee / plan / voorstel. | negative reaction (−−) | informeel | 148 |
+| Ik vind het drie keer niks. | negative reaction (−−−) | informeel | 148 |
 
 ---
 
